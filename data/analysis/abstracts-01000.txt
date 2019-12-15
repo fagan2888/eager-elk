@@ -1,0 +1,1930 @@
+0000001  J_Cell_Biol/PMC2148222.nxml
+   article-meta {}
+0000002  Edinb_Med_J/PMC5311542.nxml
+0000003  BMC_Pregnancy_Childbirth/PMC4827189.nxml
+   article-meta {'id': 'Abs1'}
+0000004  Neural_Regen_Res/PMC4146102.nxml
+0000005  Biomed_Imaging_Interv_J/PMC3097801.nxml
+   article-meta {}
+0000006  Database_(Oxford)/PMC3056270.nxml
+   article-meta {}
+0000007  BMC_Pediatr/PMC4288657.nxml
+   article-meta {'id': 'Abs1'}
+0000008  Crit_Care/PMC4057213.nxml
+   article-meta {}
+0000009  Vet_World/PMC5732344.nxml
+   article-meta {}
+0000010  BMC_Cancer/PMC5698942.nxml
+   article-meta {'id': 'Abs1'}
+0000011  Oncol_Lett/PMC4734275.nxml
+   article-meta {}
+0000012  BMC_Oral_Health/PMC3827987.nxml
+   article-meta {}
+0000013  Medicine_(Baltimore)/PMC4902348.nxml
+   article-meta {}
+0000014  Nat_Commun/PMC5347092.nxml
+   article-meta {}
+   article-meta {'abstract-type': 'web-summary'}
+0000015  Edinb_Med_J/PMC5274901.nxml
+0000016  Living_Rev_Relativ/PMC5256003.nxml
+   article-meta {'id': 'Abs1'}
+0000017  Front_Psychol/PMC5288385.nxml
+   article-meta {}
+0000018  Biomed_Res_Int/PMC3867896.nxml
+   article-meta {}
+0000019  Iran_J_Public_Health/PMC3881624.nxml
+0000020  J_Transplant/PMC3943255.nxml
+   article-meta {}
+0000021  J_Cell_Biol/PMC2234231.nxml
+   article-meta {}
+0000022  Arthritis_Res_Ther/PMC3580565.nxml
+   article-meta {}
+0000023  PLoS_One/PMC3143174.nxml
+   article-meta {}
+0000024  Hered_Cancer_Clin_Pract/PMC3287436.nxml
+0000025  BMJ_Qual_Improv_Rep/PMC4652676.nxml
+   article-meta {}
+0000026  Sensors_(Basel)/PMC3231203.nxml
+   article-meta {}
+0000027  Edinb_Med_J/PMC5326131.nxml
+0000028  Oncologist/PMC5423501.nxml
+   article-meta {}
+0000029  Sci_Rep/PMC4650646.nxml
+   article-meta {}
+0000030  J_Ethnobiol_Ethnomed/PMC2777850.nxml
+   article-meta {}
+0000031  Case_Rep_Dermatol/PMC4637793.nxml
+   article-meta {}
+0000032  Biomed_Res_Int/PMC3762084.nxml
+   article-meta {}
+0000033  Sci_Technol_Adv_Mater/PMC5090408.nxml
+   article-meta {}
+0000034  J_Cell_Biol/PMC2289143.nxml
+   article-meta {}
+0000035  PLoS_Biol/PMC1440940.nxml
+   article-meta {}
+   article-meta {'abstract-type': 'toc'}
+0000036  Mol_Biol_Cell/PMC5597326.nxml
+   article-meta {'abstract-type': 'precis'}
+   article-meta {}
+0000037  Cartilage/PMC4297162.nxml
+   article-meta {}
+0000038  PLoS_One/PMC3683005.nxml
+   article-meta {}
+0000039  Mcgill_J_Med/PMC2687888.nxml
+0000040  Ulster_Med_J/PMC2384346.nxml
+0000041  Open_Access_Maced_J_Med_Sci/PMC4877833.nxml
+   article-meta {}
+0000042  Sci_Rep/PMC5335611.nxml
+   article-meta {}
+0000043  Yale_J_Biol_Med/PMC2604249.nxml
+0000044  Medicine_(Baltimore)/PMC4998528.nxml
+   article-meta {}
+0000045  EXCLI_J/PMC4803007.nxml
+0000046  PLoS_One/PMC4624953.nxml
+   article-meta {}
+0000047  PLoS_One/PMC3217920.nxml
+   article-meta {}
+0000048  Int_J_Environ_Res_Public_Health/PMC3717739.nxml
+   article-meta {}
+0000049  Int_J_Tryptophan_Res/PMC3729277.nxml
+   article-meta {}
+0000050  Case_Rep_Dermatol_Med/PMC4842386.nxml
+   article-meta {}
+0000051  J_Invest_Dermatol/PMC4946792.nxml
+   article-meta {'id': 'abs0010'}
+0000052  PLoS_One/PMC4777545.nxml
+   article-meta {}
+0000053  Oncotarget/PMC5973856.nxml
+   article-meta {}
+0000054  Br_J_Cancer/PMC2363786.nxml
+   article-meta {}
+0000055  BMC_Genomics/PMC4000054.nxml
+   article-meta {}
+0000056  Clin_Ophthalmol/PMC5003563.nxml
+   article-meta {}
+0000057  BMC_Neurol/PMC1564031.nxml
+   article-meta {}
+0000058  Front_Oncol/PMC3355831.nxml
+   article-meta {}
+0000059  J_Cell_Mol_Med/PMC5543455.nxml
+   article-meta {'id': 'jcmm13082-abs-0001'}
+0000060  Drug_Saf/PMC4561996.nxml
+   article-meta {'id': 'Abs1'}
+0000061  J_Am_Coll_Surg/PMC4448126.nxml
+   article-meta {}
+0000062  Breast_Cancer_Res/PMC3680948.nxml
+   article-meta {}
+0000063  Inquiry/PMC5798694.nxml
+   article-meta {}
+0000064  J_Atheroscler_Thromb/PMC5090811.nxml
+   article-meta {}
+0000065  BMC_Vet_Res/PMC3661388.nxml
+   article-meta {}
+0000066  PLoS_One/PMC3691187.nxml
+   article-meta {}
+0000067  Int_J_Nanomedicine/PMC5055126.nxml
+   article-meta {}
+0000068  World_J_Surg_Oncol/PMC1988825.nxml
+   article-meta {}
+0000069  J_Minim_Access_Surg/PMC3001998.nxml
+   article-meta {}
+0000070  Biomed_Res_Int/PMC4814634.nxml
+   article-meta {}
+0000071  J_Cell_Biol/PMC2249955.nxml
+0000072  Hospital_(Lond_1886)/PMC5274052.nxml
+0000073  Front_Neurosci/PMC4104553.nxml
+   article-meta {}
+0000074  Pan_Afr_Med_J/PMC5622840.nxml
+   article-meta {}
+0000075  J_Korean_Med_Sci/PMC2650984.nxml
+   article-meta {}
+0000076  Front_Psychiatry/PMC5998767.nxml
+   article-meta {}
+0000077  Evid_Based_Complement_Alternat_Med/PMC3730186.nxml
+   article-meta {}
+0000078  Oman_J_Ophthalmol/PMC3574511.nxml
+   article-meta {}
+0000079  Mol_Genet_Genomic_Med/PMC4113274.nxml
+   article-meta {}
+0000080  SAGE_Open_Med/PMC4712748.nxml
+   article-meta {}
+0000081  Inflamm_Regen/PMC5725833.nxml
+   article-meta {'id': 'Abs1'}
+0000082  J_Amino_Acids/PMC3671240.nxml
+0000083  J_Exp_Med/PMC2190988.nxml
+   article-meta {}
+0000084  Oncotarget/PMC5865658.nxml
+   article-meta {}
+0000085  Sci_Rep/PMC5678229.nxml
+   article-meta {'id': 'Abs1'}
+0000086  ISRN_Pharm/PMC3302110.nxml
+   article-meta {}
+0000087  Indian_J_Pharmacol/PMC5155464.nxml
+   article-meta {}
+0000088  Cancers_(Basel)/PMC3712708.nxml
+   article-meta {}
+0000089  ScientificWorldJournal/PMC3606791.nxml
+   article-meta {}
+0000090  Sci_Rep/PMC5374503.nxml
+   article-meta {}
+0000091  Front_Med_(Lausanne)/PMC5475418.nxml
+   article-meta {'abstract-type': 'executive-summary'}
+0000092  J_Exp_Med/PMC2213430.nxml
+   article-meta {}
+0000093  Ann_Surg/PMC5300032.nxml
+   article-meta {}
+0000094  Plast_Reconstr_Surg_Glob_Open/PMC4236383.nxml
+   article-meta {}
+0000095  Ind_Med_Gaz/PMC5136031.nxml
+0000096  Restor_Dent_Endod/PMC4868874.nxml
+   article-meta {}
+0000097  AIMS_Neurosci/PMC5390528.nxml
+   article-meta {}
+0000098  Jundishapur_J_Microbiol/PMC4458359.nxml
+   article-meta {}
+0000099  Arthritis_Res_Ther/PMC4227127.nxml
+   article-meta {}
+0000100  J_Child_Lang/PMC4531466.nxml
+   article-meta {'abstract-type': 'normal'}
+0000101  Metabolites/PMC4018678.nxml
+   article-meta {}
+0000102  PLoS_One/PMC3534055.nxml
+   article-meta {}
+0000103  Medicine_(Baltimore)/PMC4602579.nxml
+   article-meta {}
+0000104  Acta_Crystallogr_Sect_E_Struct_Rep_Online/PMC3213477.nxml
+   article-meta {}
+0000105  J_Ophthalmol/PMC3881526.nxml
+   article-meta {}
+0000106  J_Res_Natl_Inst_Stand_Technol/PMC4878865.nxml
+   article-meta {}
+0000107  Int_J_Surg_Case_Rep/PMC4245663.nxml
+   article-meta {'abstract-type': 'author-highlights'}
+   article-meta {}
+0000108  Crit_Care/PMC3495511.nxml
+0000109  Genom_Data/PMC4778643.nxml
+   article-meta {}
+0000110  Int_J_Mol_Sci/PMC3430268.nxml
+   article-meta {}
+0000111  Biomedicine_(Taipei)/PMC4532677.nxml
+   article-meta {'id': 'Abs1'}
+0000112  Edinb_Med_J/PMC5267176.nxml
+0000113  PLoS_One/PMC4257558.nxml
+   article-meta {}
+0000114  Indian_J_Plast_Surg/PMC5868116.nxml
+0000115  Front_Bioeng_Biotechnol/PMC4373398.nxml
+   article-meta {}
+0000116  Int_J_Gen_Med/PMC2962327.nxml
+   article-meta {}
+0000117  J_Cell_Biol/PMC2108658.nxml
+   article-meta {}
+0000118  Animals_(Basel)/PMC5615299.nxml
+   article-meta {}
+0000119  Mediators_Inflamm/PMC3880767.nxml
+   article-meta {}
+0000120  Case_Rep_Rheumatol/PMC4407618.nxml
+0000121  Toxins_(Basel)/PMC4663530.nxml
+   article-meta {}
+0000122  Nonlinear_Biomed_Phys/PMC2959057.nxml
+   article-meta {}
+0000123  Nurs_Res_Pract/PMC3504449.nxml
+   article-meta {}
+0000124  Sci_Rep/PMC4658568.nxml
+   article-meta {}
+0000125  PLoS_One/PMC5462363.nxml
+   article-meta {}
+0000126  PLoS_One/PMC4470507.nxml
+   article-meta {}
+0000127  PLoS_One/PMC4388551.nxml
+   article-meta {}
+0000128  Sci_Rep/PMC5686132.nxml
+   article-meta {'id': 'Abs1'}
+0000129  PLoS_One/PMC3519488.nxml
+   article-meta {}
+0000130  Med_Crit_Psychol_J/PMC5090786.nxml
+0000131  Front_Plant_Sci/PMC5102885.nxml
+   article-meta {}
+0000132  Pediatr_Rheumatol_Online_J/PMC3334088.nxml
+0000133  Radiol_Oncol/PMC5024657.nxml
+   article-meta {}
+0000134  J_Exp_Med/PMC2135497.nxml
+   article-meta {}
+0000135  Retrovirology/PMC4932684.nxml
+   article-meta {'id': 'Abs1'}
+0000136  Open_AIDS_J/PMC3377889.nxml
+   article-meta {}
+0000137  Pediatr_Gastroenterol_Hepatol_Nutr/PMC4209322.nxml
+   article-meta {}
+0000138  J_Inflamm_(Lond)/PMC3750862.nxml
+0000139  Int_J_Mol_Sci/PMC5983815.nxml
+   article-meta {}
+0000140  Braz_J_Med_Biol_Res/PMC5572847.nxml
+   article-meta {}
+0000141  PLoS_One/PMC4689372.nxml
+   article-meta {}
+0000142  Open_Forum_Infect_Dis/PMC5631031.nxml
+   article-meta {}
+0000143  Healthcare_(Basel)/PMC4939537.nxml
+   article-meta {}
+0000144  Emerg_Infect_Dis/PMC5382727.nxml
+   article-meta {}
+0000145  PLoS_One/PMC5708633.nxml
+   article-meta {}
+0000146  J_Med_Life/PMC5654079.nxml
+   article-meta {}
+0000147  PLoS_One/PMC2773421.nxml
+   article-meta {}
+0000148  Evol_Appl/PMC4908464.nxml
+   article-meta {'id': 'eva12384-abs-0001'}
+0000149  J_Clin_Med_Res/PMC4217755.nxml
+   article-meta {}
+0000150  Front_Vet_Sci/PMC5760576.nxml
+   article-meta {'abstract-type': 'executive-summary'}
+0000151  Biomedicine_(Taipei)/PMC5825916.nxml
+   article-meta {}
+0000152  Glob_J_Health_Sci/PMC4777047.nxml
+   article-meta {}
+0000153  Scand_J_Trauma_Resusc_Emerg_Med/PMC5414327.nxml
+   article-meta {'id': 'Abs1'}
+0000154  Int_J_Med_Sci/PMC1074712.nxml
+   article-meta {}
+0000155  Nat_Struct_Mol_Biol/PMC3490428.nxml
+   article-meta {}
+0000156  CBE_Life_Sci_Educ/PMC3846521.nxml
+   article-meta {'abstract-type': 'precis'}
+   article-meta {}
+0000157  Environ_Health_Perspect/PMC1567067.nxml
+   article-meta {}
+0000158  PLoS_One/PMC3557231.nxml
+   article-meta {}
+0000159  PLoS_Comput_Biol/PMC1534074.nxml
+   article-meta {}
+   article-meta {'abstract-type': 'synopsis'}
+0000160  Korean_J_Pain/PMC3710948.nxml
+0000161  Theranostics/PMC4955049.nxml
+   article-meta {}
+0000162  Indian_J_Crit_Care_Med/PMC4238099.nxml
+0000163  Neuron_Glia_Biol/PMC3523548.nxml
+   article-meta {'abstract-type': 'normal'}
+0000164  Acta_Orthop/PMC2823241.nxml
+   article-meta {}
+0000165  Int_J_Behav_Nutr_Phys_Act/PMC3439673.nxml
+   article-meta {}
+0000166  PLoS_One/PMC3835861.nxml
+   article-meta {}
+0000167  Blood_Cancer_J/PMC5436077.nxml
+0000168  Indian_J_Orthop/PMC4436495.nxml
+   article-meta {}
+0000169  HPB_Surg/PMC2443013.nxml
+   article-meta {}
+0000170  J_Exp_Med/PMC2128148.nxml
+   article-meta {}
+0000171  Mol_Med_Rep/PMC4878570.nxml
+   article-meta {}
+0000172  Community_Eye_Health/PMC2580067.nxml
+0000173  Cardiovasc_J_Afr/PMC4928166.nxml
+   article-meta {'abstract-type': 'summary'}
+0000174  Scand_J_Trauma_Resusc_Emerg_Med/PMC4023529.nxml
+   article-meta {}
+0000175  Oncoscience/PMC4549357.nxml
+0000176  Nat_Struct_Mol_Biol/PMC2441774.nxml
+   article-meta {}
+0000177  J_Med_Case_Rep/PMC4822314.nxml
+   article-meta {'id': 'Abs1'}
+0000178  PeerJ/PMC5274517.nxml
+   article-meta {}
+0000179  J_Vis_Exp/PMC5564691.nxml
+   article-meta {}
+0000180  Indian_J_Pharm_Sci/PMC3309647.nxml
+   article-meta {}
+0000181  J_Biol_Eng/PMC2241830.nxml
+   article-meta {}
+0000182  Antioxidants_(Basel)/PMC5836013.nxml
+   article-meta {}
+0000183  J_Oncol/PMC3351123.nxml
+   article-meta {}
+0000184  J_Occup_Rehabil/PMC4967425.nxml
+   article-meta {'id': 'Abs1'}
+0000185  Ind_Med_Gaz/PMC5157234.nxml
+0000186  R_Soc_Open_Sci/PMC4807443.nxml
+   article-meta {}
+0000187  Mol_Pain/PMC3897975.nxml
+   article-meta {}
+0000188  J_Neuroeng_Rehabil/PMC2605581.nxml
+   article-meta {}
+0000189  Environ_Health_Perspect/PMC1480490.nxml
+   article-meta {}
+0000190  Emerg_Infect_Dis/PMC2732497.nxml
+   article-meta {}
+0000191  Int_J_Biol_Sci/PMC6036744.nxml
+   article-meta {}
+0000192  Hum_Resour_Health/PMC6022294.nxml
+   article-meta {'id': 'Abs1'}
+0000193  Crit_Care/PMC2934259.nxml
+0000194  J_Korean_Med_Sci/PMC3192342.nxml
+   article-meta {}
+0000195  Ment_Health_(Lond)/PMC5078230.nxml
+0000196  Nat_Commun/PMC3432464.nxml
+   article-meta {}
+   article-meta {'abstract-type': 'web-summary'}
+0000197  Horm_Cancer/PMC3689467.nxml
+   article-meta {'id': 'Abs1'}
+0000198  Sci_Rep/PMC5050514.nxml
+   article-meta {}
+0000199  J_Exp_Med/PMC2138497.nxml
+   article-meta {}
+0000200  BMJ_Open/PMC5623434.nxml
+   article-meta {}
+0000201  Genome_Announc/PMC5701466.nxml
+   article-meta {}
+0000202  F1000_Biol_Rep/PMC3270586.nxml
+   article-meta {}
+0000203  Int_J_Mol_Sci/PMC5713366.nxml
+   article-meta {}
+0000204  Antibiotics_(Basel)/PMC4790392.nxml
+   article-meta {}
+0000205  ScientificWorldJournal/PMC6009609.nxml
+0000206  BMC_Med/PMC4276103.nxml
+   article-meta {'id': 'Abs1'}
+0000207  J_Ultrason/PMC5392549.nxml
+   article-meta {}
+0000208  Case_Rep_Infect_Dis/PMC4254079.nxml
+   article-meta {}
+0000209  BMC_Psychiatry/PMC2676272.nxml
+   article-meta {}
+0000210  Front_Pharmacol/PMC3361074.nxml
+   article-meta {}
+0000211  PLoS_One/PMC5580990.nxml
+   article-meta {}
+0000212  Oncotarget/PMC5522301.nxml
+   article-meta {}
+0000213  Acta_Trop/PMC4644990.nxml
+   article-meta {'abstract-type': 'graphical'}
+   article-meta {'abstract-type': 'author-highlights'}
+   article-meta {}
+0000214  Iran_J_Public_Health/PMC3744262.nxml
+   article-meta {}
+0000215  Oncotarget/PMC5725016.nxml
+   article-meta {}
+0000216  Med_Sci_Monit/PMC4181307.nxml
+   article-meta {}
+0000217  Front_Psychol/PMC5031782.nxml
+0000218  J_Surg_Case_Rep/PMC3649577.nxml
+   article-meta {}
+0000219  Asian_J_Androl/PMC4215673.nxml
+0000220  Neurosciences_(Riyadh)/PMC5224410.nxml
+   article-meta {}
+0000221  Int_J_Nanomedicine/PMC5396976.nxml
+   article-meta {}
+0000222  J_Cell_Biol/PMC2107165.nxml
+   article-meta {}
+0000223  Int_J_Equity_Health/PMC4653839.nxml
+   article-meta {'id': 'Abs1'}
+0000224  J_Int_Soc_Sports_Nutr/PMC3472188.nxml
+   article-meta {}
+0000225  Ind_Med_Gaz/PMC5151758.nxml
+0000226  Front_Cell_Neurosci/PMC5318386.nxml
+   article-meta {}
+0000227  Qual_Quant/PMC5993864.nxml
+   article-meta {'id': 'Abs1'}
+0000228  Ind_Med_Gaz/PMC5235591.nxml
+0000229  Mar_Drugs/PMC5852500.nxml
+   article-meta {}
+0000230  Sci_Rep/PMC5431910.nxml
+   article-meta {'id': 'Abs1'}
+0000231  Front_Neuroanat/PMC2845060.nxml
+   article-meta {}
+0000232  Ind_Med_Gaz/PMC5146035.nxml
+0000233  Comput_Intell_Neurosci/PMC5002287.nxml
+0000234  J_Ophthalmic_Vis_Res/PMC3691969.nxml
+0000235  Environ_Health_Perspect/PMC1566814.nxml
+   article-meta {}
+0000236  Cytotechnology/PMC4628926.nxml
+   article-meta {'id': 'Abs1'}
+0000237  Br_J_Cancer/PMC2410146.nxml
+0000238  Clin_Med_Insights_Oncol/PMC3165921.nxml
+   article-meta {}
+0000239  Ind_Med_Gaz/PMC5183043.nxml
+0000240  Front_Microbiol/PMC3844878.nxml
+   article-meta {}
+0000241  Int_J_Biomed_Imaging/PMC2603268.nxml
+   article-meta {}
+0000242  J_Negat_Results_Biomed/PMC3097159.nxml
+   article-meta {}
+0000243  Mol_Psychiatry/PMC4653611.nxml
+   article-meta {}
+0000244  Front_Immunol/PMC6052053.nxml
+   article-meta {}
+0000245  BMC_Public_Health/PMC4919852.nxml
+   article-meta {'id': 'Abs1'}
+0000246  Sci_Rep/PMC5627239.nxml
+   article-meta {'id': 'Abs1'}
+0000247  Biomed_Opt_Express/PMC3469993.nxml
+   article-meta {}
+0000248  Acta_Crystallogr_Sect_E_Struct_Rep_Online/PMC2961598.nxml
+   article-meta {}
+0000249  BMC_Med/PMC3482556.nxml
+   article-meta {}
+0000250  Ind_Med_Gaz/PMC5158353.nxml
+0000251  Orthop_J_Sports_Med/PMC4555507.nxml
+   article-meta {}
+0000252  Drug_Des_Devel_Ther/PMC4181549.nxml
+   article-meta {}
+0000253  Iran_J_Med_Sci/PMC3993039.nxml
+   article-meta {}
+0000254  J_Neuroinflammation/PMC3016273.nxml
+   article-meta {}
+0000255  Edinb_Med_J/PMC5315185.nxml
+0000256  PLoS_One/PMC3365101.nxml
+   article-meta {}
+0000257  PLoS_One/PMC3865283.nxml
+   article-meta {}
+0000258  Gut_Liver/PMC4215448.nxml
+   article-meta {}
+0000259  PLoS_Negl_Trop_Dis/PMC2271132.nxml
+   article-meta {}
+   article-meta {'abstract-type': 'summary'}
+0000260  Sci_Rep/PMC4901266.nxml
+   article-meta {}
+0000261  Acta_Vet_Scand/PMC5126838.nxml
+   article-meta {'id': 'Abs1'}
+0000262  Diabetes_Care/PMC2992178.nxml
+   article-meta {}
+0000263  Br_J_Cancer/PMC2363303.nxml
+   article-meta {}
+0000264  Nat_Commun/PMC5437278.nxml
+   article-meta {}
+   article-meta {'abstract-type': 'web-summary'}
+0000265  BMC_Bioinformatics/PMC4759986.nxml
+   article-meta {'id': 'Abs1'}
+0000266  Front_Immunol/PMC3776951.nxml
+   article-meta {}
+0000267  Materials_(Basel)/PMC5744341.nxml
+   article-meta {}
+0000268  J_Res_Med_Sci/PMC4310084.nxml
+   article-meta {}
+0000269  Stand_Genomic_Sci/PMC5009691.nxml
+   article-meta {'id': 'Abs1'}
+0000270  Am_J_Clin_Oncol/PMC5779316.nxml
+   article-meta {}
+0000271  Biol_Open/PMC5312105.nxml
+   article-meta {}
+   article-meta {'abstract-type': 'precis'}
+0000272  Anc_Sci_Life/PMC3331198.nxml
+   article-meta {}
+0000273  Sensors_(Basel)/PMC4969839.nxml
+   article-meta {}
+0000274  New_Microbes_New_Infect/PMC4484545.nxml
+   article-meta {}
+0000275  Mycobiology/PMC5780377.nxml
+   article-meta {}
+0000276  Front_Immunol/PMC3791471.nxml
+   article-meta {}
+0000277  Hospital_(Lond_1886)/PMC5255739.nxml
+0000278  Sci_Rep/PMC4656982.nxml
+   article-meta {}
+0000279  J_Cell_Biol/PMC2107699.nxml
+   article-meta {}
+0000280  Front_Microbiol/PMC4332370.nxml
+   article-meta {}
+0000281  PLoS_One/PMC3545997.nxml
+   article-meta {}
+0000282  PLoS_Negl_Trop_Dis/PMC2811171.nxml
+0000283  J_Virol_Methods/PMC5630204.nxml
+   article-meta {'abstract-type': 'author-highlights', 'id': 'abs0005'}
+   article-meta {'id': 'abs0010'}
+0000284  J_Antimicrob_Chemother/PMC2707266.nxml
+   article-meta {}
+0000285  Gynecol_Surg/PMC4532701.nxml
+   article-meta {'id': 'Abs1'}
+0000286  Oncogene/PMC3446866.nxml
+   article-meta {}
+0000287  Med_Hist/PMC1139093.nxml
+0000288  Med_Chir_Rev/PMC5086196.nxml
+0000289  Genome_Med/PMC6063007.nxml
+   article-meta {'id': 'Abs1'}
+0000290  Respir_Res/PMC4833957.nxml
+   article-meta {'id': 'Abs1'}
+0000291  PLoS_One/PMC5662086.nxml
+   article-meta {}
+0000292  J_Transl_Med/PMC3477065.nxml
+   article-meta {}
+0000293  Med_Hist/PMC1036867.nxml
+0000294  Endosc_Ultrasound/PMC5569790.nxml
+   article-meta {}
+0000295  Aging_Dis/PMC5758346.nxml
+   article-meta {}
+0000296  Zookeys/PMC5904427.nxml
+   article-meta {}
+0000297  Acta_Vet_Scand/PMC3751741.nxml
+   article-meta {}
+0000298  J_Cell_Mol_Med/PMC3823179.nxml
+   article-meta {}
+0000299  ScientificWorldJournal/PMC4032753.nxml
+   article-meta {}
+0000300  JSLS/PMC3148879.nxml
+   article-meta {'abstract-type': 'precis'}
+   article-meta {}
+0000301  Genetics/PMC4701082.nxml
+0000302  Microorganisms/PMC5023263.nxml
+   article-meta {}
+0000303  Acta_Crystallogr_Sect_E_Struct_Rep_Online/PMC3772455.nxml
+   article-meta {}
+0000304  Ulster_Med_J/PMC2385364.nxml
+0000305  Cell_Div/PMC1838411.nxml
+   article-meta {}
+0000306  eLife/PMC5441865.nxml
+   article-meta {}
+   article-meta {'abstract-type': 'executive-summary'}
+0000307  Ir_Vet_J/PMC3113780.nxml
+   article-meta {}
+0000308  Acta_Crystallogr_Sect_E_Struct_Rep_Online/PMC2977599.nxml
+   article-meta {}
+0000309  PLoS_One/PMC3961368.nxml
+   article-meta {}
+0000310  Clin_Case_Rep/PMC5930194.nxml
+   article-meta {'id': 'ccr31471-abs-0001'}
+0000311  Oncogene/PMC3898496.nxml
+   article-meta {}
+0000312  PLoS_One/PMC4183585.nxml
+   article-meta {}
+0000313  Med_Hist/PMC1081545.nxml
+0000314  Medicine_(Baltimore)/PMC5380241.nxml
+   article-meta {'abstract-type': 'toc'}
+   article-meta {}
+0000315  G3_(Bethesda)/PMC4592996.nxml
+   article-meta {}
+0000316  Respir_Res/PMC5259979.nxml
+   article-meta {'id': 'Abs1'}
+0000317  Int_J_Environ_Res_Public_Health/PMC4881138.nxml
+   article-meta {}
+0000318  Sci_Rep/PMC5387719.nxml
+   article-meta {}
+0000319  Radiol_Res_Pract/PMC3337506.nxml
+   article-meta {}
+0000320  Cochrane_Database_Syst_Rev/PMC5458151.nxml
+   article-meta {}
+0000321  PLoS_One/PMC4409291.nxml
+   article-meta {}
+0000322  BMC_Psychiatry/PMC3819706.nxml
+   article-meta {}
+0000323  Int_J_Adolesc_Youth/PMC4391290.nxml
+   article-meta {}
+0000324  PLoS_One/PMC3244388.nxml
+   article-meta {}
+0000325  Nucleic_Acids_Res/PMC5314775.nxml
+   article-meta {}
+0000326  BMC_Cell_Biol/PMC3750383.nxml
+   article-meta {}
+0000327  J_Exp_Med/PMC2188127.nxml
+   article-meta {}
+0000328  Eur_J_Appl_Physiol/PMC5754424.nxml
+   article-meta {'id': 'Abs1'}
+0000329  PeerJ/PMC4517955.nxml
+   article-meta {}
+0000330  Mol_Vis/PMC3042361.nxml
+   article-meta {}
+0000331  Br_J_Cancer/PMC3950848.nxml
+   article-meta {}
+0000332  eLife/PMC4737653.nxml
+   article-meta {}
+   article-meta {'abstract-type': 'executive-summary'}
+0000333  PLoS_One/PMC3777938.nxml
+   article-meta {}
+0000334  BMC_Emerg_Med/PMC3199862.nxml
+   article-meta {}
+0000335  Genome_Announc/PMC3738893.nxml
+   article-meta {}
+0000336  Epigenetics/PMC4063829.nxml
+   article-meta {}
+0000337  PLoS_One/PMC3935848.nxml
+   article-meta {}
+0000338  Edinb_Med_J/PMC5326325.nxml
+0000339  BMC_Public_Health/PMC3504526.nxml
+   article-meta {}
+0000340  Environ_Health_Perspect/PMC3801201.nxml
+   article-meta {}
+0000341  J_Cell_Biol/PMC2109530.nxml
+   article-meta {}
+0000342  Transgend_Health/PMC5549536.nxml
+   article-meta {}
+0000343  Transl_Oncol/PMC5576977.nxml
+   article-meta {'id': 'ab0005'}
+0000344  PLoS_One/PMC3734322.nxml
+0000345  Mod_Pathol/PMC2675657.nxml
+   article-meta {}
+0000346  Pastoral_Psychol/PMC4917567.nxml
+   article-meta {'id': 'Abs1'}
+0000347  Scand_J_Psychol/PMC4211359.nxml
+   article-meta {}
+0000348  Cases_J/PMC2740271.nxml
+   article-meta {}
+0000349  Hospital_(Lond_1886)/PMC5227644.nxml
+0000350  Edinb_Med_J/PMC5308982.nxml
+0000351  Oncotarget/PMC5650341.nxml
+   article-meta {}
+0000352  Ind_Med_Gaz/PMC5151486.nxml
+0000353  PLoS_One/PMC3498289.nxml
+   article-meta {}
+0000354  Nat_Commun/PMC5974090.nxml
+   article-meta {'id': 'Abs1'}
+   article-meta {'id': 'Abs2', 'abstract-type': 'web-summary'}
+0000355  Health_Psychol_Behav_Med/PMC4345973.nxml
+   article-meta {}
+0000356  Ann_Rehabil_Med/PMC4414984.nxml
+0000357  Support_Care_Cancer/PMC4689771.nxml
+   article-meta {'id': 'Abs1'}
+0000358  Curr_Opin_Lipidol/PMC4791315.nxml
+   article-meta {}
+0000359  Sci_Pharm/PMC3528059.nxml
+   article-meta {}
+0000360  JMIR_Res_Protoc/PMC4978861.nxml
+   article-meta {}
+0000361  Biosci_Microbiota_Food_Health/PMC5107633.nxml
+   article-meta {}
+0000362  BMC_Public_Health/PMC3906911.nxml
+   article-meta {}
+0000363  Med_Sci_Monit/PMC3560639.nxml
+   article-meta {}
+0000364  Int_J_Endocrinol/PMC4530228.nxml
+   article-meta {}
+0000365  Clin_Risk/PMC3484316.nxml
+   article-meta {}
+0000366  Risk_Manag_Healthc_Policy/PMC5436755.nxml
+   article-meta {}
+0000367  PLoS_Pathog/PMC4965185.nxml
+0000368  Nutr_Res_Pract/PMC5126414.nxml
+   article-meta {}
+0000369  Front_Chem/PMC3982578.nxml
+   article-meta {}
+0000370  Med_Hist/PMC1044243.nxml
+0000371  PLoS_One/PMC5689826.nxml
+   article-meta {}
+0000372  PLoS_Pathog/PMC3795023.nxml
+   article-meta {}
+   article-meta {'abstract-type': 'summary'}
+0000373  PLoS_One/PMC3784396.nxml
+   article-meta {}
+0000374  Hum_Vaccin_Immunother/PMC5215410.nxml
+   article-meta {}
+0000375  J_Cell_Mol_Med/PMC4118231.nxml
+   article-meta {}
+0000376  Oncogenesis/PMC5117848.nxml
+   article-meta {}
+0000377  Sci_Rep/PMC4759820.nxml
+   article-meta {}
+0000378  Aging_Cell/PMC3488292.nxml
+   article-meta {}
+0000379  J_Am_Chem_Soc/PMC2956376.nxml
+   article-meta {}
+0000380  PLoS_One/PMC4898694.nxml
+   article-meta {}
+0000381  J_Cell_Mol_Med/PMC4496116.nxml
+   article-meta {}
+0000382  Sports_Med_Open/PMC4960281.nxml
+   article-meta {'id': 'Abs1'}
+0000383  J_Diabetes_Res/PMC4532932.nxml
+   article-meta {}
+0000384  Hospital_(Lond_1886)/PMC5222248.nxml
+0000385  PLoS_One/PMC3692519.nxml
+   article-meta {}
+0000386  Mol_Cell/PMC4961223.nxml
+   article-meta {'id': 'abs0010'}
+   article-meta {'abstract-type': 'graphical', 'id': 'abs0015'}
+   article-meta {'abstract-type': 'author-highlights', 'id': 'abs0020'}
+   article-meta {'abstract-type': 'teaser', 'id': 'abs0025'}
+0000387  Cell_Death_Dis/PMC5386457.nxml
+   article-meta {}
+0000388  Can_Respir_J/PMC5183797.nxml
+   article-meta {}
+0000389  BMC_Complement_Altern_Med/PMC5848536.nxml
+   article-meta {'id': 'Abs1'}
+0000390  Sci_Rep/PMC5955990.nxml
+   article-meta {'id': 'Abs1'}
+0000391  J_Cell_Biol/PMC2113901.nxml
+   article-meta {}
+0000392  Autophagy/PMC6070006.nxml
+   article-meta {}
+0000393  Arch_Plast_Surg/PMC5366519.nxml
+   article-meta {}
+0000394  Radiat_Oncol/PMC3504517.nxml
+   article-meta {}
+0000395  Invest_Ophthalmol_Vis_Sci/PMC5678549.nxml
+   article-meta {}
+0000396  BMC_Health_Serv_Res/PMC4942909.nxml
+   article-meta {'id': 'Abs1'}
+0000397  West_J_Emerg_Med/PMC3789906.nxml
+0000398  Metabolites/PMC4279157.nxml
+   article-meta {}
+0000399  Int_J_Nanomedicine/PMC3575177.nxml
+   article-meta {}
+0000400  J_Educ_Health_Promot/PMC4275617.nxml
+   article-meta {}
+0000401  Environ_Health_Perspect/PMC2898874.nxml
+0000402  J_Trop_Med/PMC3317006.nxml
+   article-meta {}
+0000403  BMC_Health_Serv_Res/PMC130039.nxml
+   article-meta {}
+0000404  Sci_Rep/PMC5018818.nxml
+   article-meta {}
+0000405  PLoS_One/PMC4676703.nxml
+   article-meta {}
+0000406  J_Pharmacopuncture/PMC4481399.nxml
+   article-meta {}
+0000407  ISRN_Oncol/PMC3362855.nxml
+   article-meta {}
+0000408  Iran_J_Basic_Med_Sci/PMC5126217.nxml
+   article-meta {}
+0000409  PLoS_One/PMC3036658.nxml
+   article-meta {}
+0000410  J_Geriatr_Cardiol/PMC4294151.nxml
+   article-meta {}
+0000411  Asian-Australas_J_Anim_Sci/PMC5838343.nxml
+   article-meta {}
+0000412  Ind_Med_Gaz/PMC5143866.nxml
+0000413  Osteopath_Med_Prim_Care/PMC2646741.nxml
+   article-meta {}
+0000414  J_Cell_Mol_Med/PMC5706590.nxml
+   article-meta {'id': 'jcmm13277-abs-0001'}
+0000415  Hospital_(Lond_1886)/PMC5246809.nxml
+0000416  J_Educ_Health_Promot/PMC4579759.nxml
+   article-meta {}
+0000417  Sci_Rep/PMC3510463.nxml
+   article-meta {}
+0000418  Sci_Rep/PMC5355997.nxml
+   article-meta {}
+0000419  Front_Plant_Sci/PMC6041972.nxml
+   article-meta {}
+0000420  Asian-Australas_J_Anim_Sci/PMC4092971.nxml
+   article-meta {}
+0000421  Trop_Med_Health/PMC3317601.nxml
+   article-meta {}
+0000422  Oncogene/PMC2809798.nxml
+   article-meta {}
+0000423  PLoS_One/PMC4106763.nxml
+   article-meta {}
+0000424  Psychiatry_Investig/PMC5128345.nxml
+   article-meta {}
+0000425  PLoS_One/PMC3858282.nxml
+   article-meta {}
+0000426  Cancer_Cell_Int/PMC1166566.nxml
+   article-meta {}
+0000427  Front_Integr_Neurosci/PMC3613761.nxml
+   article-meta {}
+0000428  Vet_Res/PMC3686621.nxml
+   article-meta {}
+0000429  PLoS_Comput_Biol/PMC3656101.nxml
+   article-meta {}
+   article-meta {'abstract-type': 'summary'}
+0000430  Arthritis_Res_Ther/PMC5646156.nxml
+   article-meta {'id': 'Abs1'}
+0000431  Crit_Care/PMC4098279.nxml
+0000432  Int_J_Environ_Res_Public_Health/PMC3684400.nxml
+   article-meta {}
+0000433  BMC_Cancer/PMC2613154.nxml
+   article-meta {}
+0000434  Br_J_Cancer/PMC3887288.nxml
+   article-meta {}
+0000435  Mem_Inst_Oswaldo_Cruz/PMC4878305.nxml
+   article-meta {}
+0000436  J_Cardiovasc_Ultrasound/PMC3079078.nxml
+0000437  Ind_Med_Gaz/PMC5157596.nxml
+0000438  PLoS_One/PMC5500339.nxml
+   article-meta {}
+0000439  BMC_Biotechnol/PMC3078863.nxml
+   article-meta {}
+0000440  J_Belg_Soc_Radiol/PMC6032807.nxml
+   article-meta {}
+0000441  Oncol_Rep/PMC3583610.nxml
+   article-meta {}
+0000442  Sci_Rep/PMC5215377.nxml
+   article-meta {}
+0000443  Front_Plant_Sci/PMC5318407.nxml
+   article-meta {}
+0000444  Indian_J_Psychiatry/PMC2955934.nxml
+   article-meta {}
+0000445  Langmuir/PMC5072108.nxml
+   article-meta {}
+0000446  CPT_Pharmacometrics_Syst_Pharmacol/PMC4805871.nxml
+   article-meta {}
+0000447  Biomed_Res_Int/PMC3792532.nxml
+   article-meta {}
+0000448  PLoS_One/PMC4856267.nxml
+   article-meta {}
+0000449  MAGMA/PMC5364243.nxml
+   article-meta {'id': 'Abs1'}
+0000450  J_Mol_Med_(Berl)/PMC3825489.nxml
+   article-meta {'id': 'Abs1'}
+0000451  Eur_Phys_J_C_Part_Fields/PMC5320946.nxml
+   article-meta {'id': 'Abs1'}
+0000452  Curr_Addict_Rep/PMC5350195.nxml
+   article-meta {'id': 'Abs1'}
+0000453  PLoS_One/PMC3288107.nxml
+   article-meta {}
+0000454  J_Cardiovasc_Magn_Reson/PMC5032544.nxml
+0000455  J_Trop_Med/PMC4800099.nxml
+   article-meta {}
+0000456  Crit_Care_Res_Pract/PMC3362819.nxml
+   article-meta {}
+0000457  Eur_J_Psychotraumatol/PMC5328315.nxml
+   article-meta {}
+0000458  PLoS_One/PMC3931779.nxml
+   article-meta {}
+0000459  PLoS_One/PMC4709142.nxml
+   article-meta {}
+0000460  eLife/PMC5287712.nxml
+0000461  BMC_Cancer/PMC5793339.nxml
+   article-meta {'id': 'Abs1'}
+0000462  Eur_J_Health_Econ/PMC1388083.nxml
+   article-meta {}
+0000463  Emerg_Infect_Dis/PMC3559144.nxml
+   article-meta {}
+0000464  Zookeys/PMC4311700.nxml
+   article-meta {}
+0000465  R_Soc_Open_Sci/PMC5717655.nxml
+   article-meta {}
+0000466  J_Physiol_Anthropol/PMC3831255.nxml
+   article-meta {}
+0000467  Ann_Indian_Acad_Neurol/PMC2812740.nxml
+0000468  J_Gen_Physiol/PMC2229270.nxml
+   article-meta {}
+0000469  PLoS_One/PMC4517904.nxml
+   article-meta {}
+0000470  Toxins_(Basel)/PMC3268455.nxml
+   article-meta {}
+0000471  Toxins_(Basel)/PMC5705991.nxml
+   article-meta {}
+0000472  Oncogenesis/PMC4945754.nxml
+   article-meta {}
+0000473  Hospital_(Lond_1886)/PMC5264832.nxml
+0000474  Nephrourol_Mon/PMC3955282.nxml
+0000475  BMC_Res_Notes/PMC2732920.nxml
+   article-meta {}
+0000476  PLoS_One/PMC5407839.nxml
+   article-meta {}
+0000477  Front_Plant_Sci/PMC4964870.nxml
+   article-meta {}
+0000478  Int_J_Spine_Surg/PMC4300980.nxml
+   article-meta {}
+0000479  Br_J_Cancer/PMC2409908.nxml
+0000480  Int_J_Chron_Obstruct_Pulmon_Dis/PMC4671757.nxml
+   article-meta {}
+0000481  Int_J_Environ_Res_Public_Health/PMC3635158.nxml
+   article-meta {}
+0000482  J_Ophthalmic_Vis_Res/PMC5905315.nxml
+   article-meta {}
+0000483  Lond_Med_J/PMC5545433.nxml
+0000484  Sci_Rep/PMC4042120.nxml
+   article-meta {}
+0000485  Case_Rep_Radiol/PMC4534750.nxml
+   article-meta {}
+0000486  Nat_Commun/PMC5025749.nxml
+   article-meta {}
+   article-meta {'abstract-type': 'web-summary'}
+0000487  AIDS_Patient_Care_STDS/PMC5035367.nxml
+   article-meta {}
+0000488  ScientificWorldJournal/PMC3927748.nxml
+   article-meta {}
+0000489  Wiley_Interdiscip_Rev_Clim_Change/PMC4368101.nxml
+   article-meta {}
+0000490  Biosci_Microbiota_Food_Health/PMC5301056.nxml
+   article-meta {}
+0000491  Clin_Transl_Allergy/PMC4412297.nxml
+0000492  Diabetes_Care/PMC2671098.nxml
+   article-meta {}
+0000493  Bioinorg_Chem_Appl/PMC3513716.nxml
+   article-meta {}
+0000494  Source_Code_Biol_Med/PMC2374781.nxml
+   article-meta {}
+0000495  EBioMedicine/PMC5652021.nxml
+   article-meta {'id': 'ab0005'}
+   article-meta {'abstract-type': 'author-highlights', 'id': 'ab0010'}
+0000496  Ann_Thorac_Med/PMC3573562.nxml
+0000497  Indian_J_Psychiatry/PMC3012822.nxml
+   article-meta {}
+0000498  Genome_Med/PMC2784303.nxml
+   article-meta {}
+0000499  Purinergic_Signal/PMC2096568.nxml
+   article-meta {'xml:lang': 'en'}
+0000500  Oncotarget/PMC5862634.nxml
+0000501  J_Cell_Biol/PMC2253769.nxml
+0000502  BMC_Bioinformatics/PMC1762028.nxml
+   article-meta {}
+0000503  Front_Microbiol/PMC3253546.nxml
+   article-meta {}
+0000504  J_Neuroinflammation/PMC4066277.nxml
+   article-meta {}
+0000505  BMC_Public_Health/PMC1615878.nxml
+   article-meta {}
+0000506  One_Health/PMC5591385.nxml
+   article-meta {'id': 'ab0005'}
+   article-meta {'abstract-type': 'author-highlights', 'id': 'ab0010'}
+0000507  Sci_Rep/PMC4804332.nxml
+   article-meta {}
+0000508  EMBO_Mol_Med/PMC4734843.nxml
+   article-meta {'abstract-type': 'toc', 'id': 'emmm201505965-abs-0001'}
+0000509  J_Exp_Bot/PMC3134347.nxml
+   article-meta {}
+0000510  Front_Genet/PMC3484325.nxml
+0000511  Int_J_Chron_Obstruct_Pulmon_Dis/PMC4079628.nxml
+0000512  Malar_J/PMC5126811.nxml
+   article-meta {'id': 'Abs1'}
+0000513  Biosensors_(Basel)/PMC6023016.nxml
+   article-meta {}
+0000514  PLoS_One/PMC3360657.nxml
+   article-meta {}
+0000515  PLoS_One/PMC5268443.nxml
+0000516  BMC_Public_Health/PMC5223544.nxml
+   article-meta {'id': 'Abs1'}
+0000517  BMC_Biol/PMC4922063.nxml
+   article-meta {'id': 'Abs1'}
+0000518  Curr_Genomics/PMC3468886.nxml
+   article-meta {}
+0000519  Sci_Rep/PMC5131346.nxml
+   article-meta {}
+0000520  BMC_Ophthalmol/PMC4381494.nxml
+   article-meta {'id': 'Abs1'}
+0000521  Hospital_(Lond_1886)/PMC5272543.nxml
+0000522  Neuropsychopharmacology/PMC3671995.nxml
+   article-meta {}
+0000523  J_Med_Case_Rep/PMC4506416.nxml
+   article-meta {'id': 'Abs1'}
+0000524  Int_J_Mol_Sci/PMC5578190.nxml
+   article-meta {}
+0000525  BMC_Pediatr/PMC4113122.nxml
+   article-meta {}
+0000526  Gynecol_Oncol_Rep/PMC4949497.nxml
+   article-meta {'id': 'ab0005'}
+   article-meta {'abstract-type': 'author-highlights', 'id': 'ab0010'}
+0000527  PLoS_One/PMC3618045.nxml
+   article-meta {}
+0000528  J_Vet_Med_Sci/PMC4488399.nxml
+   article-meta {}
+0000529  Mol_Med_Rep/PMC5482153.nxml
+   article-meta {}
+0000530  Curr_Biol/PMC2581485.nxml
+   article-meta {}
+0000531  Crit_Care/PMC3333058.nxml
+0000532  PLoS_One/PMC3045434.nxml
+   article-meta {}
+0000533  PLoS_One/PMC5640237.nxml
+   article-meta {}
+0000534  Indian_J_Orthop/PMC3745695.nxml
+   article-meta {}
+0000535  Interdiscip_Perspect_Infect_Dis/PMC5820545.nxml
+   article-meta {}
+0000536  Mol_Cell_Ther/PMC4452048.nxml
+   article-meta {'id': 'Abs1'}
+0000537  PLoS_One/PMC3897603.nxml
+   article-meta {}
+0000538  Rev_Bras_Ortop/PMC4799479.nxml
+   article-meta {}
+0000539  Sci_Rep/PMC4293620.nxml
+   article-meta {}
+0000540  ILAR_J/PMC6057551.nxml
+   article-meta {}
+0000541  Chem_Cent_J/PMC3610160.nxml
+   article-meta {}
+0000542  Int_J_Organ_Transplant_Med/PMC4346457.nxml
+   article-meta {}
+0000543  Iran_J_Reprod_Med/PMC4575752.nxml
+   article-meta {}
+0000544  PLoS_One/PMC3737221.nxml
+   article-meta {}
+0000545  BMC_Psychiatry/PMC4367837.nxml
+   article-meta {'id': 'Abs1'}
+0000546  BMC_Bioinformatics/PMC1189077.nxml
+   article-meta {}
+0000547  BMC_Public_Health/PMC3827002.nxml
+   article-meta {}
+0000548  Indian_J_Ophthalmol/PMC5151168.nxml
+   article-meta {}
+0000549  Springerplus/PMC4000594.nxml
+   article-meta {'id': 'Abs1'}
+0000550  PLoS_One/PMC4498751.nxml
+   article-meta {}
+0000551  J_Psychol_Med_Ment_Pathol/PMC5083296.nxml
+0000552  J_Cardiothorac_Surg/PMC5804049.nxml
+   article-meta {'id': 'Abs1'}
+0000553  PLoS_One/PMC4760709.nxml
+   article-meta {}
+0000554  Western_Pac_Surveill_Response_J/PMC5803553.nxml
+   article-meta {}
+0000555  Chin_J_Cancer/PMC4778300.nxml
+   article-meta {'id': 'Abs1'}
+0000556  J_Psychol_Med_Ment_Pathol_(Lond)/PMC5112066.nxml
+0000557  Edinb_Med_J/PMC5300547.nxml
+0000558  PLoS_Comput_Biol/PMC3406004.nxml
+   article-meta {}
+   article-meta {'abstract-type': 'summary'}
+0000559  Med_J_Islam_Repub_Iran/PMC5307604.nxml
+   article-meta {}
+0000560  Pharmacogn_Rev/PMC4791983.nxml
+   article-meta {}
+0000561  BMC_Public_Health/PMC3974000.nxml
+   article-meta {}
+0000562  Trans_Edinb_Obstet_Soc/PMC5484814.nxml
+0000563  BMC_Infect_Dis/PMC4080437.nxml
+0000564  Med_Hist_Suppl/PMC2530992.nxml
+0000565  BMC_Genomics/PMC60534.nxml
+   article-meta {}
+0000566  BMC_Health_Serv_Res/PMC4213512.nxml
+   article-meta {'id': 'Abs1'}
+0000567  Indian_J_Crit_Care_Med/PMC5699016.nxml
+0000568  J_Clin_Monit_Comput/PMC5943384.nxml
+   article-meta {'id': 'Abs1'}
+0000569  Environ_Health_Perspect/PMC1568983.nxml
+   article-meta {}
+0000570  Oncotarget/PMC4811448.nxml
+   article-meta {}
+0000571  Acta_Vet_Scand/PMC4595036.nxml
+0000572  PLoS_One/PMC3914964.nxml
+   article-meta {}
+0000573  Jundishapur_J_Microbiol/PMC5240163.nxml
+   article-meta {}
+0000574  Ambio/PMC5884759.nxml
+   article-meta {'id': 'Abs1'}
+0000575  PLoS_One/PMC3080407.nxml
+   article-meta {}
+0000576  Afr_J_Disabil/PMC5442580.nxml
+   article-meta {}
+0000577  Rare_Dis/PMC4755239.nxml
+   article-meta {}
+0000578  PLoS_One/PMC5215938.nxml
+   article-meta {}
+0000579  BMC_Neurosci/PMC2749049.nxml
+   article-meta {}
+0000580  Open_Forum_Infect_Dis/PMC5782062.nxml
+0000581  PLoS_One/PMC3032787.nxml
+   article-meta {}
+0000582  Head_Neck_Oncol/PMC3108931.nxml
+   article-meta {}
+0000583  Free_Radic_Biol_Med/PMC4180008.nxml
+   article-meta {}
+   article-meta {'abstract-type': 'graphical'}
+   article-meta {'abstract-type': 'author-highlights'}
+0000584  Cell_Death_Dis/PMC5852118.nxml
+   article-meta {'id': 'Abs1'}
+0000585  Mol_Med_Rep/PMC3724684.nxml
+   article-meta {}
+0000586  PLoS_One/PMC4074135.nxml
+   article-meta {}
+0000587  Exp_Mol_Med/PMC4973313.nxml
+   article-meta {}
+0000588  MMWR_Morb_Mortal_Wkly_Rep/PMC5689100.nxml
+0000589  EPMA_J/PMC3405412.nxml
+   article-meta {'id': 'Abs1'}
+0000590  F1000Res/PMC5428524.nxml
+   article-meta {}
+0000591  Arch_Med_Sci/PMC5111089.nxml
+   article-meta {}
+0000592  Pan_Afr_Med_J/PMC4405061.nxml
+   article-meta {}
+0000593  Front_Microbiol/PMC3920289.nxml
+   article-meta {}
+0000594  BMC_Pulm_Med/PMC5725644.nxml
+   article-meta {'id': 'Abs1'}
+0000595  PLoS_One/PMC3836953.nxml
+   article-meta {}
+0000596  PLoS_Med/PMC4579130.nxml
+   article-meta {'abstract-type': 'toc'}
+0000597  Ann_Gen_Psychiatry/PMC1693912.nxml
+   article-meta {}
+0000598  HeartRhythm_Case_Rep/PMC5420008.nxml
+0000599  Curr_Dir_Psychol_Sci/PMC5665144.nxml
+   article-meta {}
+0000600  Sci_Rep/PMC5955917.nxml
+   article-meta {'id': 'Abs1'}
+0000601  Oncotarget/PMC5707007.nxml
+   article-meta {}
+0000602  PLoS_One/PMC3206853.nxml
+   article-meta {}
+0000603  PLoS_One/PMC4452776.nxml
+   article-meta {}
+0000604  Sci_Rep/PMC5899124.nxml
+0000605  Arab_J_Urol/PMC4442982.nxml
+   article-meta {}
+0000606  Sci_Rep/PMC5816647.nxml
+   article-meta {'id': 'Abs1'}
+0000607  Nucleic_Acids_Res/PMC548373.nxml
+   article-meta {}
+0000608  PLoS_One/PMC5388338.nxml
+   article-meta {}
+0000609  PLoS_One/PMC3499512.nxml
+   article-meta {}
+0000610  BMC_Health_Serv_Res/PMC3422198.nxml
+   article-meta {}
+0000611  J_Cell_Biol/PMC2133392.nxml
+   article-meta {}
+0000612  Mediterr_J_Hematol_Infect_Dis/PMC3033105.nxml
+   article-meta {}
+0000613  EBioMedicine/PMC4486192.nxml
+   article-meta {}
+   article-meta {'abstract-type': 'author-highlights'}
+0000614  J_Ayurveda_Integr_Med/PMC3326793.nxml
+   article-meta {}
+0000615  Hospital_(Lond_1886)/PMC5265204.nxml
+0000616  Clin_Transl_Allergy/PMC3354218.nxml
+0000617  Ann_Intensive_Care/PMC5812960.nxml
+   article-meta {'id': 'Abs1'}
+0000618  PLoS_One/PMC5597095.nxml
+   article-meta {}
+0000619  World_J_Plast_Surg/PMC6066709.nxml
+   article-meta {}
+0000620  BJOG/PMC1974832.nxml
+   article-meta {}
+0000621  MMWR_Morb_Mortal_Wkly_Rep/PMC4585605.nxml
+0000622  BMC_Public_Health/PMC5452384.nxml
+   article-meta {'id': 'Abs1'}
+0000623  Malar_J/PMC5883262.nxml
+   article-meta {'id': 'Abs1'}
+0000624  PLoS_One/PMC4476650.nxml
+   article-meta {}
+0000625  Oncotarget/PMC5650288.nxml
+   article-meta {}
+0000626  J_Pathol_Transl_Med/PMC5267542.nxml
+   article-meta {}
+0000627  J_Cell_Biol/PMC2108328.nxml
+0000628  PLoS_One/PMC4907458.nxml
+   article-meta {}
+0000629  J_Insect_Sci/PMC3281418.nxml
+   article-meta {}
+0000630  Anthropol_Med/PMC4200601.nxml
+   article-meta {}
+0000631  PLoS_One/PMC4461297.nxml
+   article-meta {}
+0000632  J_Inflamm_(Lond)/PMC2211292.nxml
+   article-meta {}
+0000633  J_Gen_Physiol/PMC2279169.nxml
+   article-meta {}
+0000634  PLoS_One/PMC2654156.nxml
+   article-meta {}
+0000635  Biochem_Med_(Zagreb)/PMC3900080.nxml
+   article-meta {}
+0000636  BMC_Health_Serv_Res/PMC5975582.nxml
+   article-meta {'id': 'Abs1'}
+0000637  Lung_India/PMC4748674.nxml
+   article-meta {}
+0000638  PLoS_One/PMC5931662.nxml
+   article-meta {}
+0000639  PLoS_One/PMC3315570.nxml
+   article-meta {}
+0000640  Ind_Med_Gaz/PMC5155901.nxml
+0000641  Iran_J_Basic_Med_Sci/PMC5817177.nxml
+   article-meta {}
+0000642  J_Gen_Physiol/PMC5583714.nxml
+   article-meta {'abstract-type': 'precis'}
+0000643  J_Int_Oral_Health/PMC4148574.nxml
+   article-meta {}
+0000644  J_Diabetes_Res/PMC4781970.nxml
+   article-meta {}
+0000645  PLoS_One/PMC4422748.nxml
+0000646  PLoS_One/PMC2858664.nxml
+   article-meta {}
+0000647  ASN_Neuro/PMC3392751.nxml
+   article-meta {}
+0000648  Medicine_(Baltimore)/PMC5265767.nxml
+   article-meta {}
+0000649  Acta_Crystallogr_Sect_E_Struct_Rep_Online/PMC2961192.nxml
+   article-meta {}
+0000650  Sci_Rep/PMC4725866.nxml
+   article-meta {}
+0000651  Open_Biomed_Eng_J/PMC5585465.nxml
+0000652  Br_J_Cancer/PMC2001511.nxml
+   article-meta {}
+0000653  J_Cell_Biol/PMC4195822.nxml
+0000654  Korean_J_Urol/PMC3242989.nxml
+   article-meta {}
+0000655  Emerg_Infect_Dis/PMC3414041.nxml
+   article-meta {}
+0000656  Brain_Connect/PMC5865260.nxml
+   article-meta {}
+0000657  Mol_Neurodegener/PMC4709948.nxml
+   article-meta {'id': 'Abs1'}
+0000658  Sci_Rep/PMC5852020.nxml
+   article-meta {'id': 'Abs1'}
+0000659  Brain_Plast/PMC5928563.nxml
+   article-meta {}
+0000660  Int_J_Microbiol/PMC3065215.nxml
+   article-meta {}
+0000661  ISRN_Obstet_Gynecol/PMC3236401.nxml
+   article-meta {}
+0000662  Basic_Clin_Neurosci/PMC4202570.nxml
+   article-meta {}
+0000663  Isr_J_Health_Policy_Res/PMC4150555.nxml
+   article-meta {}
+0000664  BMC_Womens_Health/PMC5341354.nxml
+   article-meta {'id': 'Abs1'}
+0000665  Hepat_Mon/PMC3768236.nxml
+   article-meta {}
+0000666  BMC_Health_Serv_Res/PMC2089069.nxml
+   article-meta {}
+0000667  BMJ_Open_Diabetes_Res_Care/PMC4442134.nxml
+   article-meta {}
+0000668  Nucleic_Acids_Res/PMC3130256.nxml
+   article-meta {}
+0000669  J_Orthop_Surg_Res/PMC4354748.nxml
+   article-meta {'id': 'Abs1'}
+0000670  Environ_Health_Perspect/PMC1567812.nxml
+   article-meta {}
+0000671  PLoS_One/PMC5132201.nxml
+   article-meta {}
+0000672  Oncotarget/PMC4148126.nxml
+   article-meta {}
+0000673  Bioinformation/PMC3725006.nxml
+   article-meta {}
+0000674  Ment_Health_(Lond)/PMC5079939.nxml
+0000675  ACS_Biomater_Sci_Eng/PMC5596412.nxml
+   article-meta {}
+0000676  Korean_J_Urol/PMC3773593.nxml
+   article-meta {}
+0000677  PLoS_One/PMC3534128.nxml
+   article-meta {}
+0000678  J_Cell_Biol/PMC2171926.nxml
+   article-meta {}
+0000679  Ann_Card_Anaesth/PMC4881698.nxml
+   article-meta {}
+0000680  PLoS_One/PMC4132092.nxml
+0000681  PLoS_One/PMC4684341.nxml
+   article-meta {}
+0000682  Sci_Rep/PMC5847537.nxml
+   article-meta {'id': 'Abs1'}
+0000683  PLoS_One/PMC3322161.nxml
+   article-meta {}
+0000684  Biol_Sex_Differ/PMC3974112.nxml
+   article-meta {}
+0000685  J_Cell_Biol/PMC4539993.nxml
+   article-meta {'abstract-type': 'precis'}
+   article-meta {}
+0000686  Nat_Commun/PMC5543116.nxml
+   article-meta {'id': 'Abs1'}
+   article-meta {'id': 'Abs2', 'abstract-type': 'web-summary'}
+0000687  Front_Med_(Lausanne)/PMC4873491.nxml
+   article-meta {}
+0000688  Viruses/PMC3280519.nxml
+   article-meta {}
+0000689  Front_Endocrinol_(Lausanne)/PMC5632355.nxml
+   article-meta {}
+0000690  EJNMMI_Res/PMC4723373.nxml
+   article-meta {'id': 'Abs1'}
+0000691  PLoS_One/PMC3120827.nxml
+   article-meta {}
+0000692  Int_J_Spine_Surg/PMC4300899.nxml
+   article-meta {}
+0000693  Virol_J/PMC3599072.nxml
+   article-meta {}
+0000694  PLoS_Negl_Trop_Dis/PMC3554527.nxml
+   article-meta {}
+   article-meta {'abstract-type': 'summary'}
+0000695  Nucleic_Acids_Res/PMC4702781.nxml
+   article-meta {}
+0000696  PLoS_One/PMC3157346.nxml
+   article-meta {}
+0000697  Sci_Rep/PMC5648881.nxml
+   article-meta {'id': 'Abs1'}
+0000698  Am_J_Clin_Pathol/PMC5402718.nxml
+   article-meta {}
+0000699  PLoS_One/PMC5908161.nxml
+   article-meta {}
+0000700  Ann_Rheum_Dis/PMC4431343.nxml
+   article-meta {}
+0000701  Int_J_Chron_Obstruct_Pulmon_Dis/PMC3064422.nxml
+   article-meta {}
+0000702  Biologics/PMC2727886.nxml
+   article-meta {}
+0000703  Int_J_Surg_Case_Rep/PMC4334956.nxml
+   article-meta {'abstract-type': 'author-highlights'}
+   article-meta {}
+0000704  Med_Hist/PMC3865967.nxml
+0000705  Diabetes_Metab_Syndr_Obes/PMC3422910.nxml
+   article-meta {}
+0000706  Front_Plant_Sci/PMC5405116.nxml
+   article-meta {}
+0000707  PLoS_One/PMC4393254.nxml
+   article-meta {}
+0000708  Front_Mol_Neurosci/PMC3861691.nxml
+0000709  BMJ_Open_Gastroenterol/PMC5508801.nxml
+   article-meta {}
+0000710  PLoS_One/PMC3521730.nxml
+   article-meta {}
+0000711  Zookeys/PMC4319057.nxml
+   article-meta {}
+0000712  J_Evol_Econ/PMC5500684.nxml
+   article-meta {'id': 'Abs1'}
+0000713  J_Cell_Biol/PMC2288836.nxml
+   article-meta {}
+0000714  Oncotarget/PMC5589686.nxml
+   article-meta {}
+0000715  J_Autom_Methods_Manag_Chem/PMC2643006.nxml
+   article-meta {}
+0000716  Int_J_Chron_Obstruct_Pulmon_Dis/PMC5008445.nxml
+   article-meta {}
+0000717  Crit_Care/PMC3222029.nxml
+   article-meta {}
+0000718  Nephrourol_Mon/PMC3703128.nxml
+   article-meta {}
+0000719  J_Cell_Biol/PMC2115841.nxml
+   article-meta {}
+0000720  J_Biogeogr/PMC5042061.nxml
+   article-meta {'id': 'jbi12777-abs-0001'}
+0000721  Clin_Med_Oncol/PMC3161656.nxml
+0000722  PLoS_One/PMC5378352.nxml
+   article-meta {}
+0000723  Ind_Med_Gaz/PMC5162539.nxml
+0000724  J_Res_Natl_Inst_Stand_Technol/PMC4887232.nxml
+0000725  BMC_Complement_Altern_Med/PMC4966810.nxml
+   article-meta {'id': 'Abs1'}
+0000726  Sci_Rep/PMC5738388.nxml
+   article-meta {'id': 'Abs1'}
+0000727  Ecol_Evol/PMC4224541.nxml
+   article-meta {}
+0000728  Korean_J_Thorac_Cardiovasc_Surg/PMC4622037.nxml
+   article-meta {}
+0000729  Oncol_Lett/PMC3997727.nxml
+   article-meta {}
+0000730  PLoS_One/PMC3875440.nxml
+   article-meta {}
+0000731  Mol_Cell_Oncol/PMC4905364.nxml
+   article-meta {}
+0000732  Mult_Scler_J_Exp_Transl_Clin/PMC5433226.nxml
+   article-meta {}
+0000733  BMC_Res_Notes/PMC3909148.nxml
+   article-meta {}
+0000734  Eur_J_Psychotraumatol/PMC4438098.nxml
+   article-meta {}
+0000735  Physiol_Rep/PMC4552542.nxml
+   article-meta {}
+0000736  Breathe_(Sheff)/PMC4933609.nxml
+   article-meta {'abstract-type': 'extract'}
+   article-meta {'abstract-type': 'short'}
+0000737  BMC_Vet_Res/PMC4515883.nxml
+   article-meta {'id': 'Abs1'}
+0000738  J_Math_Neurosci/PMC3849076.nxml
+   article-meta {}
+0000739  Case_Rep_Rheumatol/PMC3748409.nxml
+   article-meta {}
+0000740  Ann_Genet_Sel_Anim/PMC2734799.nxml
+0000741  PLoS_One/PMC4117645.nxml
+   article-meta {}
+0000742  PLoS_One/PMC5313175.nxml
+   article-meta {}
+0000743  Oncotarget/PMC4359234.nxml
+   article-meta {}
+0000744  EBioMedicine/PMC4972487.nxml
+   article-meta {'id': 'ab0005'}
+   article-meta {'abstract-type': 'author-highlights', 'id': 'ab0010'}
+0000745  Br_J_Cancer/PMC4984457.nxml
+   article-meta {}
+0000746  Sci_Rep/PMC5514084.nxml
+   article-meta {'id': 'Abs1'}
+0000747  PLoS_One/PMC4743942.nxml
+   article-meta {}
+0000748  Sci_Rep/PMC3994439.nxml
+   article-meta {}
+0000749  J_Am_Chem_Soc/PMC5269645.nxml
+   article-meta {}
+0000750  PLoS_One/PMC4324961.nxml
+   article-meta {}
+0000751  J_Cell_Biol/PMC2107226.nxml
+   article-meta {}
+0000752  Inflamm_Bowel_Dis/PMC4450952.nxml
+   article-meta {'abstract-type': 'toc'}
+   article-meta {}
+0000753  PLoS_One/PMC3223184.nxml
+   article-meta {}
+0000754  Sex_Med/PMC4498826.nxml
+   article-meta {}
+0000755  Front_Endocrinol_(Lausanne)/PMC5816834.nxml
+   article-meta {'abstract-type': 'executive-summary'}
+0000756  Neurotherapeutics/PMC5794709.nxml
+   article-meta {'id': 'Abs1'}
+0000757  J_Alzheimers_Dis/PMC5900560.nxml
+   article-meta {}
+0000758  BMJ_Open/PMC5724082.nxml
+   article-meta {}
+0000759  Diabetol_Metab_Syndr/PMC3439322.nxml
+   article-meta {}
+0000760  PLoS_Pathog/PMC5472321.nxml
+   article-meta {}
+   article-meta {'abstract-type': 'summary'}
+0000761  IDCases/PMC5565774.nxml
+   article-meta {'id': 'abs0005'}
+0000762  Genomics_Soc_Policy/PMC5425018.nxml
+0000763  Onco_Targets_Ther/PMC5063562.nxml
+   article-meta {}
+0000764  Diabetes_Care/PMC3161269.nxml
+   article-meta {}
+0000765  PLoS_Biol/PMC4323106.nxml
+   article-meta {}
+   article-meta {'abstract-type': 'toc'}
+   article-meta {'abstract-type': 'summary'}
+0000766  J_Signal_Transduct/PMC3135246.nxml
+   article-meta {}
+0000767  Ind_Med_Gaz/PMC5231648.nxml
+0000768  Ind_Med_Gaz/PMC5166022.nxml
+0000769  Evol_Med_Public_Health/PMC5139007.nxml
+   article-meta {'abstract-type': 'precis'}
+   article-meta {}
+0000770  ERJ_Open_Res/PMC5429022.nxml
+   article-meta {}
+   article-meta {'abstract-type': 'short'}
+0000771  PLoS_One/PMC3989262.nxml
+   article-meta {}
+0000772  Front_Pharmacol/PMC5770640.nxml
+   article-meta {}
+0000773  J_Rural_Med/PMC4309350.nxml
+   article-meta {}
+0000774  Medicine_(Baltimore)/PMC5058824.nxml
+   article-meta {}
+0000775  Clin_Rehabil/PMC5405812.nxml
+   article-meta {}
+0000776  J_Cardiovasc_Magn_Reson/PMC4044137.nxml
+0000777  PLoS_One/PMC4177917.nxml
+   article-meta {}
+0000778  PLoS_One/PMC5414947.nxml
+   article-meta {}
+0000779  Oncoimmunology/PMC3881109.nxml
+   article-meta {}
+0000780  Protein_Cell/PMC4259890.nxml
+   article-meta {'id': 'Abs1'}
+0000781  Plast_Reconstr_Surg_Glob_Open/PMC4457268.nxml
+   article-meta {}
+0000782  J_Microbiol_Biol_Educ/PMC4004751.nxml
+0000783  J_Exp_Med/PMC2186151.nxml
+   article-meta {}
+0000784  PLoS_One/PMC4936709.nxml
+   article-meta {}
+0000785  Springerplus/PMC4797578.nxml
+0000786  Front_Neurol/PMC3282300.nxml
+   article-meta {}
+0000787  Int_J_Surg_Case_Rep/PMC5247283.nxml
+   article-meta {'abstract-type': 'author-highlights', 'id': 'abs0005'}
+   article-meta {'id': 'abs0010'}
+0000788  J_Adv_Res/PMC5099268.nxml
+   article-meta {'abstract-type': 'graphical', 'id': 'ab005'}
+   article-meta {'id': 'ab010'}
+0000789  Med_Chir_Rev/PMC5091443.nxml
+0000790  Sci_Rep/PMC3216622.nxml
+   article-meta {}
+0000791  Iran_J_Basic_Med_Sci/PMC3586916.nxml
+   article-meta {}
+0000792  Int_J_Anal_Chem/PMC5376936.nxml
+   article-meta {}
+0000793  Kidney_Int_Suppl_(2011)/PMC4089658.nxml
+   article-meta {}
+0000794  Oncotarget/PMC4116501.nxml
+   article-meta {}
+0000795  Glob_Health_Action/PMC3926989.nxml
+   article-meta {}
+0000796  Enzyme_Res/PMC3399398.nxml
+   article-meta {}
+0000797  BMC_Evol_Biol/PMC2778655.nxml
+   article-meta {}
+0000798  PLoS_Comput_Biol/PMC2329781.nxml
+   article-meta {}
+0000799  PLoS_One/PMC5570292.nxml
+   article-meta {}
+0000800  Medicines_(Basel)/PMC6023313.nxml
+   article-meta {}
+0000801  ScientificWorldJournal/PMC4005080.nxml
+   article-meta {}
+0000802  Cell_Calcium/PMC5761718.nxml
+   article-meta {'abstract-type': 'graphical', 'id': 'abs0005'}
+   article-meta {'abstract-type': 'author-highlights', 'id': 'abs0010'}
+   article-meta {'id': 'abs0015'}
+0000803  PeerJ/PMC4277490.nxml
+   article-meta {}
+0000804  Emerg_Infect_Dis/PMC3323399.nxml
+   article-meta {}
+0000805  Wellcome_Open_Res/PMC5941243.nxml
+   article-meta {}
+0000806  Int_J_Pediatr_Endocrinol/PMC4428255.nxml
+0000807  PeerJ/PMC4715448.nxml
+   article-meta {}
+0000808  Evid_Based_Complement_Alternat_Med/PMC4609409.nxml
+   article-meta {}
+0000809  PLoS_One/PMC4340799.nxml
+   article-meta {}
+0000810  Int_J_Equity_Health/PMC2147004.nxml
+   article-meta {}
+0000811  Int_J_Neuropsychopharmacol/PMC4368896.nxml
+   article-meta {}
+0000812  J_Neurosci_Rural_Pract/PMC3724322.nxml
+0000813  Biomed_Eng_Online/PMC5101797.nxml
+   article-meta {'id': 'Abs1'}
+0000814  PLoS_One/PMC4699646.nxml
+   article-meta {}
+0000815  Int_J_Mol_Sci/PMC4926451.nxml
+   article-meta {}
+0000816  Sensors_(Basel)/PMC5713147.nxml
+   article-meta {}
+0000817  J_Cancer/PMC4911879.nxml
+   article-meta {}
+0000818  J_Exp_Med/PMC2234364.nxml
+   article-meta {}
+0000819  Biores_Open_Access/PMC5515124.nxml
+   article-meta {}
+0000820  Environ_Health_Perspect/PMC1519602.nxml
+0000821  PLoS_One/PMC3827374.nxml
+   article-meta {}
+0000822  Evid_Based_Complement_Alternat_Med/PMC4131460.nxml
+   article-meta {}
+0000823  Indian_J_Med_Res/PMC3181013.nxml
+0000824  Brain_Behav/PMC4814225.nxml
+   article-meta {'id': 'brb3456-abs-0001'}
+0000825  J_Cardiovasc_Echogr/PMC5875137.nxml
+   article-meta {}
+0000826  Front_Microbiol/PMC5770649.nxml
+   article-meta {}
+0000827  J_Child_Orthop/PMC4661157.nxml
+   article-meta {'id': 'Abs1'}
+0000828  Evid_Based_Complement_Alternat_Med/PMC3838828.nxml
+   article-meta {}
+0000829  Oxid_Med_Cell_Longev/PMC3154033.nxml
+   article-meta {}
+0000830  Indian_J_Pharmacol/PMC3153718.nxml
+   article-meta {}
+0000831  EBioMedicine/PMC5832560.nxml
+   article-meta {'id': 'ab0005'}
+   article-meta {'abstract-type': 'author-highlights', 'id': 'ab0010'}
+0000832  Arch_Immunol_Ther_Exp_(Warsz)/PMC5334377.nxml
+   article-meta {'id': 'Abs1'}
+0000833  Case_Rep_Dent/PMC5892276.nxml
+   article-meta {}
+0000834  BMC_Med_Genet/PMC5898064.nxml
+   article-meta {'id': 'Abs1'}
+0000835  Int_Neurourol_J/PMC5083829.nxml
+   article-meta {}
+0000836  Acta_Crystallogr_E_Crystallogr_Commun/PMC4420075.nxml
+   article-meta {}
+0000837  Case_Rep_Med/PMC3295564.nxml
+   article-meta {}
+0000838  Evid_Based_Complement_Alternat_Med/PMC4378605.nxml
+   article-meta {}
+0000839  Biomed_Res_Int/PMC4309212.nxml
+   article-meta {}
+0000840  Mol_Biol_Cell/PMC5921568.nxml
+   article-meta {'abstract-type': 'precis'}
+   article-meta {}
+0000841  Emerg_Med_J/PMC3717590.nxml
+   article-meta {}
+0000842  BMC_Biotechnol/PMC3018391.nxml
+   article-meta {}
+0000843  PLoS_One/PMC4370456.nxml
+   article-meta {}
+0000844  Yonsei_Med_J/PMC2880276.nxml
+   article-meta {}
+0000845  Sci_Rep/PMC5882885.nxml
+   article-meta {'id': 'Abs1'}
+0000846  J_Venom_Anim_Toxins_Incl_Trop_Dis/PMC4938980.nxml
+   article-meta {'id': 'Abs1'}
+0000847  Clin_Epidemiol/PMC4847609.nxml
+   article-meta {}
+0000848  Breast_Cancer_Res/PMC4220086.nxml
+   article-meta {'id': 'Abs1'}
+0000849  Investig_Clin_Urol/PMC4778757.nxml
+   article-meta {}
+0000850  Med_Hist/PMC1082165.nxml
+0000851  PLoS_One/PMC4682972.nxml
+   article-meta {}
+0000852  Medicine_(Baltimore)/PMC5682828.nxml
+   article-meta {}
+0000853  Genome_Biol_Evol/PMC3673623.nxml
+   article-meta {}
+0000854  J_Intensive_Care/PMC4424708.nxml
+   article-meta {'id': 'Abs1'}
+0000855  Acta_Crystallogr_E_Crystallogr_Commun/PMC4420070.nxml
+   article-meta {}
+0000856  Br_J_Cancer/PMC2480965.nxml
+   article-meta {}
+0000857  J_Res_Med_Sci/PMC3526135.nxml
+   article-meta {}
+0000858  Indian_J_Med_Res/PMC4859129.nxml
+   article-meta {}
+0000859  Clin_Cosmet_Investig_Dent/PMC4383219.nxml
+   article-meta {}
+0000860  PLoS_One/PMC5313225.nxml
+   article-meta {}
+0000861  Schizophr_Bull/PMC5887550.nxml
+   article-meta {}
+0000862  J_Healthc_Eng/PMC5168447.nxml
+   article-meta {}
+0000863  Iran_J_Parasitol/PMC3724144.nxml
+   article-meta {}
+0000864  Physiol_Rep/PMC4760387.nxml
+   article-meta {'abstract-type': 'main', 'id': 'phy212663-abs-0001'}
+0000865  Oncogenesis/PMC5852963.nxml
+   article-meta {'id': 'Abs1'}
+0000866  J_Korean_Med_Sci/PMC3053788.nxml
+   article-meta {}
+0000867  Cancer_Sci/PMC5665764.nxml
+   article-meta {'id': 'cas13379-abs-0001'}
+0000868  Prev_Nutr_Food_Sci/PMC5063206.nxml
+   article-meta {}
+0000869  BMC_Public_Health/PMC1584408.nxml
+   article-meta {}
+0000870  BMC_Infect_Dis/PMC2692859.nxml
+   article-meta {}
+0000871  J_Exp_Clin_Cancer_Res/PMC4210479.nxml
+   article-meta {'id': 'Abs1'}
+0000872  Sci_Rep/PMC4355740.nxml
+   article-meta {}
+0000873  ScientificWorldJournal/PMC3655687.nxml
+   article-meta {}
+0000874  BMC_Public_Health/PMC1784081.nxml
+   article-meta {}
+0000875  Malar_J/PMC3518194.nxml
+   article-meta {}
+0000876  Exp_Hematol_Oncol/PMC5020469.nxml
+   article-meta {'id': 'Abs1'}
+0000877  Int_Orthop/PMC3535032.nxml
+   article-meta {'id': 'Abs1'}
+0000878  Front_Cell_Infect_Microbiol/PMC4154528.nxml
+   article-meta {}
+0000879  Korean_J_Intern_Med/PMC4578033.nxml
+0000880  Obesity_(Silver_Spring)/PMC5487288.nxml
+   article-meta {}
+0000881  J_Gen_Physiol/PMC2234455.nxml
+   article-meta {}
+0000882  Nat_Commun/PMC4682108.nxml
+   article-meta {}
+   article-meta {'abstract-type': 'web-summary'}
+0000883  West_J_Emerg_Med/PMC5785182.nxml
+   article-meta {}
+0000884  PLoS_One/PMC3492315.nxml
+   article-meta {}
+0000885  Edinb_Med_J/PMC5299297.nxml
+0000886  Genome_Announc/PMC3953186.nxml
+   article-meta {}
+0000887  Indian_J_Endocrinol_Metab/PMC3830365.nxml
+0000888  Mol_Cell/PMC4321881.nxml
+   article-meta {}
+   article-meta {'abstract-type': 'graphical'}
+   article-meta {'abstract-type': 'author-highlights'}
+   article-meta {'abstract-type': 'teaser'}
+0000889  Nat_Commun/PMC4351998.nxml
+   article-meta {}
+0000890  Med_Sci_Monit_Basic_Res/PMC5543979.nxml
+   article-meta {}
+0000891  PLoS_One/PMC4190116.nxml
+   article-meta {}
+0000892  Nucleic_Acids_Res/PMC4066750.nxml
+   article-meta {}
+0000893  Int_J_Genomics/PMC4493290.nxml
+   article-meta {}
+0000894  Insects/PMC4598666.nxml
+   article-meta {}
+0000895  Br_J_Cancer/PMC2409806.nxml
+   article-meta {}
+0000896  Ind_Med_Gaz/PMC5177235.nxml
+0000897  Retrovirology/PMC3895926.nxml
+   article-meta {}
+0000898  Virol_J/PMC1796864.nxml
+   article-meta {}
+0000899  Intensive_Care_Med/PMC5487602.nxml
+0000900  Diabetes_Spectr/PMC5439359.nxml
+0000901  Case_Rep_Med/PMC4269210.nxml
+   article-meta {}
+0000902  Arthritis_Res_Ther/PMC3979134.nxml
+   article-meta {}
+0000903  PLoS_One/PMC3722101.nxml
+   article-meta {}
+0000904  BMC_Genomics/PMC2435555.nxml
+   article-meta {}
+0000905  J_Neuroinflammation/PMC4907252.nxml
+   article-meta {'id': 'Abs1'}
+0000906  Nucleic_Acids_Res/PMC2703992.nxml
+   article-meta {}
+0000907  Materials_(Basel)/PMC5503041.nxml
+   article-meta {}
+0000908  J_Vet_Med_Sci/PMC5709556.nxml
+   article-meta {}
+0000909  PLoS_One/PMC4482726.nxml
+   article-meta {}
+0000910  Chin_Med_J_(Engl)/PMC4733713.nxml
+   article-meta {}
+0000911  Iran_J_Med_Sci/PMC3556758.nxml
+   article-meta {}
+0000912  J_Exp_Med/PMC2119442.nxml
+   article-meta {}
+0000913  Sci_Rep/PMC5269757.nxml
+   article-meta {}
+0000914  J_Int_AIDS_Soc/PMC3113087.nxml
+0000915  Sci_Adv/PMC5955623.nxml
+   article-meta {'abstract-type': 'teaser'}
+   article-meta {}
+0000916  Theor_Biol_Med_Model/PMC2915964.nxml
+   article-meta {}
+0000917  Oxid_Med_Cell_Longev/PMC5735688.nxml
+   article-meta {}
+0000918  PLoS_One/PMC3266898.nxml
+   article-meta {}
+0000919  Ann_Dermatol/PMC4884714.nxml
+   article-meta {}
+0000920  Indian_J_Pharmacol/PMC3987197.nxml
+   article-meta {}
+0000921  Nat_Commun/PMC4059922.nxml
+   article-meta {}
+   article-meta {'abstract-type': 'web-summary'}
+0000922  Yale_J_Biol_Med/PMC2601848.nxml
+0000923  PLoS_One/PMC3669126.nxml
+   article-meta {}
+0000924  Neuroimage_Clin/PMC4459048.nxml
+   article-meta {}
+   article-meta {'abstract-type': 'author-highlights'}
+0000925  Front_Microbiol/PMC5133248.nxml
+   article-meta {}
+0000926  Biomed_Eng_Online/PMC5260023.nxml
+   article-meta {'id': 'Abs1'}
+0000927  Front_Neurol/PMC6037820.nxml
+   article-meta {}
+0000928  J_Health_Popul_Nutr/PMC5026023.nxml
+   article-meta {'id': 'Abs1'}
+0000929  BMC_Pregnancy_Childbirth/PMC5577741.nxml
+   article-meta {'id': 'Abs1'}
+0000930  BMC_Biol/PMC5535293.nxml
+   article-meta {'id': 'Abs1'}
+0000931  Protein_Eng_Des_Sel/PMC3785249.nxml
+   article-meta {}
+0000932  Front_Neurosci/PMC4611137.nxml
+   article-meta {}
+0000933  PLoS_One/PMC5942831.nxml
+   article-meta {}
+0000934  PeerJ/PMC5452956.nxml
+   article-meta {}
+0000935  Int_J_Nurs_Pract/PMC4233990.nxml
+   article-meta {}
+0000936  Genome_Biol/PMC4612428.nxml
+   article-meta {'id': 'Abs1'}
+0000937  PLoS_One/PMC3098273.nxml
+   article-meta {}
+0000938  Neuroimage_Clin/PMC5964829.nxml
+   article-meta {'id': 'ab0005'}
+   article-meta {'abstract-type': 'author-highlights', 'id': 'ab0010'}
+0000939  PLoS_One/PMC3781043.nxml
+   article-meta {}
+0000940  Can_J_Kidney_Health_Dis/PMC4666045.nxml
+0000941  Int_J_Crit_Illn_Inj_Sci/PMC5869799.nxml
+   article-meta {}
+0000942  Acta_Crystallogr_E_Crystallogr_Commun/PMC4645027.nxml
+   article-meta {}
+0000943  Libyan_J_Med/PMC5757224.nxml
+   article-meta {}
+0000944  ISRN_Otolaryngol/PMC3658487.nxml
+   article-meta {}
+0000945  Adv_Med_Educ_Pract/PMC4408958.nxml
+   article-meta {}
+0000946  Int_J_Integr_Care/PMC3031852.nxml
+0000947  Mol_Cytogenet/PMC4044274.nxml
+0000948  PLoS_One/PMC5744996.nxml
+   article-meta {}
+0000949  Acta_Paediatr/PMC2721967.nxml
+   article-meta {}
+0000950  Int_J_Obes_(Lond)/PMC2875101.nxml
+   article-meta {}
+0000951  Health_Res_Policy_Syst/PMC5450237.nxml
+   article-meta {'id': 'Abs1'}
+0000952  J_Ovarian_Res/PMC4632684.nxml
+   article-meta {'id': 'Abs1'}
+0000953  Data_Brief/PMC5988218.nxml
+   article-meta {'id': 'ab0010'}
+0000954  Bristol_Med_Chir_J_(1883)/PMC5049299.nxml
+0000955  Korean_J_Pain/PMC4500785.nxml
+   article-meta {}
+0000956  J_Chem_Technol_Biotechnol/PMC5698741.nxml
+   article-meta {}
+0000957  BMC_Res_Notes/PMC3494609.nxml
+   article-meta {}
+0000958  Sci_Rep/PMC3952144.nxml
+   article-meta {}
+0000959  BMC_Cardiovasc_Disord/PMC5374608.nxml
+   article-meta {'id': 'Abs1'}
+0000960  Angew_Chem_Int_Ed_Engl/PMC4834627.nxml
+   article-meta {'abstract-type': 'toc'}
+0000961  Int_J_Mol_Sci/PMC4159784.nxml
+   article-meta {}
+0000962  PLoS_One/PMC4618065.nxml
+   article-meta {}
+0000963  Nucleic_Acids_Res/PMC4267660.nxml
+   article-meta {}
+0000964  Evol_Appl/PMC4869409.nxml
+   article-meta {'id': 'eva12378-abs-0001'}
+0000965  Fam_Cancer/PMC3100491.nxml
+   article-meta {'id': 'Abs1'}
+0000966  Curr_Psychiatry_Rev/PMC5872369.nxml
+   article-meta {}
+0000967  PLoS_Pathog/PMC4295846.nxml
+   article-meta {}
+   article-meta {'abstract-type': 'summary'}
+0000968  Gastroenterol_Res_Pract/PMC3753740.nxml
+   article-meta {}
+0000969  BMC_Bioinformatics/PMC4251058.nxml
+   article-meta {}
+0000970  Nat_Commun/PMC4730032.nxml
+   article-meta {}
+   article-meta {'abstract-type': 'web-summary'}
+0000971  Oncotarget/PMC5630398.nxml
+   article-meta {}
+0000972  J_Multidiscip_Healthc/PMC3210077.nxml
+   article-meta {}
+0000973  PLoS_One/PMC3728185.nxml
+   article-meta {}
+0000974  BMC_Bioinformatics/PMC4520095.nxml
+   article-meta {'id': 'Abs1'}
+0000975  Emerg_Infect_Dis/PMC2874348.nxml
+   article-meta {'abstract-type': 'toc'}
+   article-meta {}
+0000976  Case_Rep_Med/PMC2728609.nxml
+   article-meta {}
+0000977  Einstein_(Sao_Paulo)/PMC4872949.nxml
+   article-meta {}
+   front-stub {}
+0000978  Glob_Health_Action/PMC2779943.nxml
+   article-meta {}
+0000979  Arch_Dermatol_Res/PMC6060767.nxml
+   article-meta {'id': 'Abs1'}
+0000980  Oncol_Rep/PMC3583484.nxml
+   article-meta {}
+0000981  BMC_Biochem/PMC1448197.nxml
+   article-meta {}
+0000982  Acta_Crystallogr_Sect_E_Struct_Rep_Online/PMC3051739.nxml
+   article-meta {}
+0000983  PLoS_One/PMC3907408.nxml
+   article-meta {}
+0000984  PLoS_One/PMC4758615.nxml
+   article-meta {}
+0000985  Crit_Care/PMC3333402.nxml
+0000986  PLoS_Biol/PMC4854464.nxml
+   article-meta {}
+   article-meta {'abstract-type': 'toc'}
+   article-meta {'abstract-type': 'summary'}
+0000987  Insects/PMC5198208.nxml
+   article-meta {}
+0000988  PLoS_One/PMC6005464.nxml
+   article-meta {}
+0000989  Cell_Rep/PMC5263236.nxml
+   article-meta {'id': 'abs0010'}
+   article-meta {'abstract-type': 'graphical', 'id': 'abs0015'}
+   article-meta {'abstract-type': 'author-highlights', 'id': 'abs0020'}
+   article-meta {'abstract-type': 'teaser', 'id': 'abs0025'}
+0000990  Nanoscale_Res_Lett/PMC3211264.nxml
+   article-meta {}
+0000991  Cardiol_Ther/PMC4265229.nxml
+   article-meta {'id': 'Abs1'}
+0000992  Patient_Saf_Surg/PMC3177761.nxml
+   article-meta {}
+0000993  BMC_Pediatr/PMC5097382.nxml
+   article-meta {'id': 'Abs1'}
+0000994  Ecancermedicalscience/PMC3234020.nxml
+   article-meta {}
+0000995  Environ_Health/PMC2895599.nxml
+   article-meta {}
+0000996  J_Basic_Clin_Pharm/PMC3894734.nxml
+0000997  J_Cell_Biol/PMC2174310.nxml
+   article-meta {}
+0000998  Orphanet_J_Rare_Dis/PMC4062771.nxml
+   article-meta {}
+0000999  PLoS_One/PMC2586721.nxml
+0001000  BMC_Geriatr/PMC3290189.nxml
+   article-meta {}
