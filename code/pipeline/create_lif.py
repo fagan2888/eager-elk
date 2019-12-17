@@ -163,7 +163,6 @@ if __name__ == '__main__':
     filelist = '../../data/files-random-01000.txt'
 
     options = dict(getopt(sys.argv[1:], 'd:f:s:e:h', ['crash', 'help'])[0])
-    print(options)
     data_dir = options.get('-d', data_dir)
     filelist = options.get('-f', filelist)
     start = int(options.get('-s', 1))
