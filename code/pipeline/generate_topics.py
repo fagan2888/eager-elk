@@ -1,11 +1,22 @@
 """generate_topics.py
 
+Use the gensim topic model to add one or more topics to a document.
+
 Usage:
 
-$ python generate_topics.py LIF_DIR OUT_DIR
+$ python generate_topics.py --train -d DATA_DIR -f FILELIST  -b BEGIN -e END
 
-The topic model is written to ../../data/topics
+Train a topic model using files in DATA_DIR/lif, taking only the files in
+FILELIST (which has the relative paths from DATA_DIR/lif) only using the lines
+from BEGIN to END. Both BEGIN and END defaylt to 1. The model is written to
+../../data/topics.
 
+$ python generate_topics.py -d DATA_DIR -f FILELIST -b BEGIN -e END --crash?
+
+Run the topic model created with --train to generate topics for the files in
+DATA_DIR/lif as filtered by FILELIST, BEGIN and END. Results are written to
+DATA_DIR/top. Usually errors are trapped, adding the optional --crash option
+makes the script exit with an error.
 
 """
 
