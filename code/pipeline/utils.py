@@ -13,7 +13,7 @@ def time_elapsed(fun):
 
 def elements(filelist, start, end):
     """Generator over the lines in filelist, only yielding lines from line niumber
-    start up to an dincluding end."""
+    start up to and including end."""
     process = False
     n = 1
     with open(filelist) as fh:
