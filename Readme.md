@@ -22,7 +22,7 @@ Processing steps:
 1. Converting nxml files into json files
 1. Converting json files into lif files
 1. Adding topics
-1.
+1. Running the Tarsqi Toolkit
 1.
 
 
@@ -62,17 +62,36 @@ Script: `code/pipeline/generate_topics.py`
 
 First create a model:
 
-```
-$ python3 generate_topics --build -d DATA_DIR -f FILELIST -e 10000
+```bash
+$ python3 generate_topics.py --build -d DATA_DIR -f FILELIST -e 10000
 ```
 
-This needs to be done only once. The model itself is saved in `../../data/topcs` and will b eloaded as needed.
+This needs to be done only once. The model itself is saved in `../../data/topcs` and will be loaded as needed.
 
 Run the model on LIF files:
 
-```
-$ python3 generate_topics -d DATA_DIR -f FILELIST -e 10000
+```bash
+$ python3 generate_topics.py -d DATA_DIR -f FILELIST -e 10000
 ```
 
-Creating the model from the 10K files took about 8 minutes. Run time is .
-Size of created data is .
+Creating the model from the 10K files took about 8 minutes. Run time is just under 5 hours.
+Size of created data is 22G.
+
+
+### 4. Running the Tarsqi Toolkit
+
+See https://github.com/tarsqi/ttk on how to install TTK, note that for our purposes here we do not need to install Mallet. We used the most recent commit on the develop branch as of Dec 18 2019 (commit 00c6a53). When installing TTK with a current version of the TreeTagger one change needed to be made to `wrapper.py` in `components/preprocessing/` where on line 35 we used `english-utf8.par` instead of `english-utf8.par`.
+
+Once you have TTK installed first set the `PYTHONPATH` environment variable and have it point to where TTK is installed, for example:
+
+```bash
+$ export PYTHONPATH=/Users/marc/tools/ttk
+```
+
+Now use the `run_tarsqi.py` script in a similar way as before with other modules:
+
+```bash
+$ python2 run_tarsqi.py -d DATA_DIR -f FILELIST -e 10000
+```
+
+Note that TTK requires Python 2.7. One other difference is that unlike previous modules this module creates gzipped files. Without compressions running this on the first 1000 files creates 151M of data, which translates to about 315G for the entire dataset. Compressions reduce disk space usage with a factor 15.
