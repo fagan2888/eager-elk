@@ -27,7 +27,7 @@ import gzip
 import tarsqi
 from utilities import lif
 
-from utils import time_elapsed, elements, ensure_directory
+from utils import time_elapsed, elements, ensure_directory, print_element
 from lif import Container
 
 
@@ -36,8 +36,9 @@ COMPRESS = True
 
 @time_elapsed
 def run_tarsqi(data_dir, filelist, start, end, crash=False):
+    print("$ python3 %s" % ' '.join(sys.argv))
     for n, fname in elements(filelist, start, end):
-        print("%07d  %s" % (n, fname))
+        print_element(n, fname)
         if crash:
             run_tarsqi_for_file(data_dir, fname)
         else:
@@ -45,7 +46,6 @@ def run_tarsqi(data_dir, filelist, start, end, crash=False):
                 run_tarsqi_for_file(data_dir, fname)
             except Exception as e:
                 print('ERROR:', Exception, e)
-                sys.stderr.write("ERROR on %07d  %s\n" % (n, fname))
 
 
 def run_tarsqi_for_file(data_dir, fname):

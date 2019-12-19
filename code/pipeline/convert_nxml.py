@@ -93,29 +93,28 @@ running time increases by about 65-70% and disk use quadruples.
 import os
 import sys
 import json
-import time
 import getopt
 import collections
 import bs4
 
-from utils import ensure_directory, elements, time_elapsed
+from utils import ensure_directory, elements, time_elapsed, print_element
 
 
 @time_elapsed
 def process_filelist(source_dir, data_dir, filelist, start, end, crash=False):
     for n, fname in elements(filelist, start, end):
+        print_element(n, fname)
         if crash:
-            process_list_element(data_dir, n, fname)
+            process_list_element(data_dir, fname)
         else:
             try:
-                process_list_element(source_dir, data_dir, n, fname)
+                process_list_element(source_dir, data_dir, fname)
             except Exception as e:
                 sys.stderr.write("ERROR on %07d  %s\n" % (n, fname))
                 print('ERROR:', Exception, e)
 
 
-def process_list_element(source_dir, data_dir, n, fname):
-    print("%07d  %s" % (n, fname))
+def process_list_element(source_dir, data_dir, fname):
     nxml_file = os.path.join(source_dir, fname)
     jsn_file = os.path.join(data_dir, 'jsn', fname)
     ensure_directory(jsn_file)

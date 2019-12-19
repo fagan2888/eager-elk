@@ -34,7 +34,7 @@ from nltk import word_tokenize
 from nltk.corpus import wordnet as wn
 
 from lif import Container, LIF, View, Annotation
-from utils import elements, ensure_directory, time_elapsed
+from utils import elements, ensure_directory, time_elapsed, print_element
 
 
 TOPICS_DIR = "../../data/topics"
@@ -106,7 +106,7 @@ def generate_topics(data_dir, filelist, start, end, crash=False):
                  in lda.print_topics(num_topics=NUM_TOPICS)}
     dictionary = load_dictionary()
     for n, fname in elements(filelist, start, end):
-        print("%07d  %s" % (n, fname))
+        print_element(n, fname)
         if crash:
             generate_topics_for_file(data_dir, fname, lda, topic_idx, dictionary)
         else:
@@ -114,7 +114,6 @@ def generate_topics(data_dir, filelist, start, end, crash=False):
                 generate_topics_for_file(data_dir, fname, lda, topic_idx, dictionary)
             except Exception as e:
                 print('ERROR:', Exception, e)
-                sys.stderr.write("ERROR on %07d  %s\n" % (n, fname))
 
 
 def generate_topics_for_file(data_dir, fname, lda, topic_idx, dictionary):

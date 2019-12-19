@@ -28,6 +28,10 @@ def elements(filelist, start, end):
             n += 1
 
 
+def print_element(n, fname):
+    print("%d  %07d  %s" % (int(time.time()), n, fname))
+
+
 def ensure_directory(*fnames):
     """Ensure the directory part of all file names exists."""
     for fname in fnames:
