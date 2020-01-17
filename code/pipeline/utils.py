@@ -29,7 +29,7 @@ def elements(filelist, start, end):
 
 
 def print_element(n, fname):
-    print("%d  %07d  %s" % (int(time.time()), n, fname))
+    print("%s  %07d  %s" % (time.strftime("%Y%m%d:%H%M%S"), n, fname))
 
 
 def ensure_directory(*fnames):

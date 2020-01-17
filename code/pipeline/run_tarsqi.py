@@ -36,7 +36,7 @@ COMPRESS = True
 
 @time_elapsed
 def run_tarsqi(data_dir, filelist, start, end, crash=False):
-    print("$ python3 %s" % ' '.join(sys.argv))
+    print("$ python2 %s" % ' '.join(sys.argv))
     for n, fname in elements(filelist, start, end):
         print_element(n, fname)
         if crash:

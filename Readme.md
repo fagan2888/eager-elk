@@ -66,7 +66,7 @@ First create a model:
 $ python3 generate_topics.py --build -d DATA_DIR -f FILELIST -e 10000
 ```
 
-This needs to be done only once. The model itself is saved in `../../data/topcs` and will be loaded as needed.
+This needs to be done only once. The model itself is saved in `../../data/topics` and will be loaded as needed.
 
 Run the model on LIF files:
 
