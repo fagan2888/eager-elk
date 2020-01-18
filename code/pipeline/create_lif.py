@@ -4,9 +4,9 @@ Convert Pubmed's nxml files into LIF files.
 
 Usage:
 
-$ python3 convert_nxml.py -s SOURCE_DIR -d DATA_DIR -f FILE_LIST -b BEGIN -e END
-$ python3 convert_nxml.py -s SOURCE_DIR -d DATA_DIR -f FILE_LIST --crash
-$ python3 convert_nxml.py (-h | --help)
+$ python3 create_lif.py -s SOURCE_DIR -d DATA_DIR -f FILE_LIST -b BEGIN -e END
+$ python3 create_lif.py -s SOURCE_DIR -d DATA_DIR -f FILE_LIST --crash
+$ python3 create_lif.py (-h | --help)
 
 The -s, -d and -f options are there to hand in the source directory to be
 processed, the data directory to write results to and a file list with relative
@@ -55,10 +55,10 @@ Some documents do not have abstracts, some have more than one. Some abstracts
 aren't really the kinds of abstracts we want. Most abstracts tags do not have
 any attributes (about 78% of a randomly selected sample of 1000 articles), but
 some have an 'abstract-type' attribute (8%) and some have an 'id' attribute
-(16%). All abstracts are children of the <article-meta> tag. See
-data-analysis/abstracts-01000.txt for a list of the abstract attributes.
+(16%). All abstracts are children of the <article-meta> tag. For a list of the
+abstract attributes see data-analysis/abstracts-01000.txt.
 
-The following seem the be decent heurisitcs and they work for the random sample
+The following seem the be decent heuristics and they work for the random sample
 of 1000:
 
 - If you have only one abstract, go with it. This may include some fairly
@@ -73,6 +73,10 @@ of 1000:
 
 We get the title, year, authors, pmid and source. References are ignored if
 there is no year, title and authors.
+
+References almost double processing time so I am leaving them out given our
+current time crunch and the fact we did not use it last time for the Kibana
+visualiation. Not doing this also reduces diskspace used by a factor 4.
 
 
 == Runtime
@@ -112,12 +116,7 @@ def process_list_element(source_dir, data_dir, fname):
     nxml_file = os.path.join(source_dir, fname)
     lif_file = os.path.join(data_dir, 'lif', fname[:-4] + 'lif')
     ensure_directory(lif_file)
-    create_jsn_file(nxml_file, lif_file)
-
-
-def create_jsn_file(nxml_file, lif_file):
     pmc_article = PmcArticle(nxml_file, lif_file)
-    pmc_article.add_data_from_nxml_file()
     pmc_article.write()
 
 
@@ -129,12 +128,6 @@ class PmcArticle(object):
         self.lif = lif.LIF()
         self.lif.metadata['authors'] = []
         self.lif.metadata['references'] = []
-
-    def add_data_from_nxml_file(self):
-        # References almost double processing time so I am leaving them out
-        # given our current time crunch and the fact we did not use it last time
-        # for the Kibana visualiation. Not doing this also reduces diskspace
-        # used by a factor 4.
         with open(self.source) as fp:
             self.soup = bs4.BeautifulSoup(fp, 'lxml')
             self._add_ids()
@@ -236,10 +229,10 @@ class PmcArticle(object):
 
 def usage():
     print("\nUsage:\n"
-          + "\n    $ python3 convert_nxml.py -s SOURCE_DIR -d DATA_DIR -f FILELIST"
-          + "\n    $ python3 convert_nxml.py -s SOURCE_DIR -d DATA_DIR -f FILELIST -s START -e END"
-          + "\n    $ python3 convert_nxml.py -s SOURCE_DIR -d DATA_DIR -f FILELIST --crash"
-          + "\n    $ python3 convert_nxml.py (-h | --help)\n")
+          + "\n    $ python3 create_lif.py -s SOURCE_DIR -d DATA_DIR -f FILELIST"
+          + "\n    $ python3 create_lif.py -s SOURCE_DIR -d DATA_DIR -f FILELIST -s START -e END"
+          + "\n    $ python3 create_lif.py -s SOURCE_DIR -d DATA_DIR -f FILELIST --crash"
+          + "\n    $ python3 create_lif.py (-h | --help)\n")
 
 
 if __name__ == '__main__':

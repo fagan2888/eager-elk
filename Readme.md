@@ -19,44 +19,39 @@ For nltk you need to load a few resources:
 
 Processing steps:
 
-1. Converting nxml files into json files
-1. Converting json files into lif files
+1. Converting Pubmed files into LIF files
 1. Adding topics
 1. Running the Tarsqi Toolkit
 1.
 
 
-### 1. Converting nxml files into JSON
+### 1. Converting nxml files into LIF
 
-Use the script `code/pipeline/convert_nxml.py`:
-
-```bash
-$ cd code/pipeline
-$ python3 convert_nxml.py -s SOURCE_DIR -d DATA_DIR -f FILELIST -e 9999999
-```
-
-The JSON created is very similar to the output of science-parse. This was done because it would make it possible to reuse the DTRA demo pipeline. In retrospect, we could have just created LIF files directly.
-
-See the docstring for more information. Files are taken from `SOURCE_DIR/src` and results are written to `DATA_DIR/jsn` which is created if it does not exist, existing files inside that directory may be overwritten. Filenames are the same (extensions are not changed).
-
-Run time on full data set is about 40-50 hours on `tarski.cs.brandeis.edu` (with 36 Intel(R) Xeon(R) CPU E5-2695 v4 @ 2.10GHz processors and 125G of memory). Size of generated data is 8.2G.
-
-
-### 2. Creating LIF files
-
-Script: `code/pipeline/convert_nxml.py`:
+Use the script `code/pipeline/create_lif.py`:
 
 ```bash
 $ cd code/pipeline
-$ python3 create_lif.py -d DATA_DIR -f FILELIST -e 9999999
+$ python3 create_lif.py -s SOURCE_DIR -d DATA_DIR -f FILELIST -e 9999999
 ```
 
-Files are read from `DATA_DIR/jsn`, LIF files are written to `DATA_DIR/lif`, all with the `.lif` extension, plain text files are written to `DATA_DIR/txt` with the `.txt` extension.
+Takes Pubmed nxml files from `SOURCE_DIR` and writes LIF files to `DATA_DIR/jsn` which is created if it does not exist, existing files inside that directory may be overwritten. Filenames are the same except that extensions are changed from `nxml` into `lif`. The file paths in `FILELIST` are relative paths that point to paths inside `SOURCE_DIR`, for example
 
-Run time is a bit less than an hour, the size of the `lif` directory is 12G.
+```
+Front_Endocrinol_(Lausanne)/PMC5632355.nxml
+Plast_Reconstr_Surg_Glob_Open/PMC4236383.nxml
+PLoS_Pathog/PMC4965185.nxml
+```
+
+On tarski, the file list is located at
+
+```
+/data/pubmed/pmc-processed/files-random-all.txt
+```
+
+Run time on full data set is about 40-50 hours on `tarski.cs.brandeis.edu` (with 36 Intel(R) Xeon(R) CPU E5-2695 v4 @ 2.10GHz processors and 125G of memory). Size of generated data is about 12G.
 
 
-### 3. Adding topics
+### 2. Adding topics
 
 Script: `code/pipeline/generate_topics.py`
 
