@@ -42,13 +42,26 @@ Plast_Reconstr_Surg_Glob_Open/PMC4236383.nxml
 PLoS_Pathog/PMC4965185.nxml
 ```
 
-On tarski, the file list is located at
+On tarski, the source directory, data directory and file list are located at
 
 ```
+/data/pubmed/pmc/oa_bulk/decompressed/
+/data/pubmed/pmc-processed/all/
 /data/pubmed/pmc-processed/files-random-all.txt
 ```
 
-Run time on full data set is about 40-50 hours on `tarski.cs.brandeis.edu` (with 36 Intel(R) Xeon(R) CPU E5-2695 v4 @ 2.10GHz processors and 125G of memory). Size of generated data is about 12G.
+Run time on full data set is about 40-50 hours on `tarski.cs.brandeis.edu` (with 36 Intel(R) Xeon(R) CPU E5-2695 v4 @ 2.10GHz processors and 125G of memory). Size of generated data is about 8G.
+
+You can parallelize this as follows:
+
+```bash
+$ python3 create_lif.py -s SOURCE -d DATA -f FILELIST -s 1 -e 100000 &
+$ python3 create_lif.py -s SOURCE -d DATA -f FILELIST -s 100001 -e 200000 &
+$ python3 create_lif.py -s SOURCE -d DATA -f FILELIST -s 200001 -e 300000 &
+$ python3 create_lif.py -s SOURCE -d DATA -f FILELIST -s 300001 -e 400000 &
+```
+
+This will use four processors and give a good speedup overall. It is not clear when disk access becomes the bottle neck, but this is at least not the case when running up to six jobs at the time (haven't tried with more yet). Apart from processing time this was also done because I ran into mysterious crashes when I ran `create_lif.py` on all files, seemingly corresponding to the connection being broken. Mysterious because I always ran the script in the background and redirected input to a file. I did make some changes to how errors are printed, which may have solved the problem.
 
 
 ### 2. Adding topics
@@ -69,8 +82,7 @@ Run the model on LIF files:
 $ python3 generate_topics.py -d DATA_DIR -f FILELIST -e 10000
 ```
 
-Creating the model from the 10K files took about 8 minutes. Run time is just under 5 hours.
-Size of created data is 22G.
+Creating the model from the 10K files took about 8 minutes. Run time is just under 5 hours. Size of created data is 22G.
 
 
 ### 4. Running the Tarsqi Toolkit

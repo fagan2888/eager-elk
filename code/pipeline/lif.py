@@ -178,6 +178,7 @@ class Text(object):
     def __init__(self, json_obj=None):
         self.language = 'en'
         self.value = ''
+        self.source = None
         if json_obj is not None:
             self.language = json_obj.get('language')
             self.value = json_obj.get('@value')
@@ -189,6 +190,8 @@ class Text(object):
         d = {"@value": self.value}
         if self.language is not None:
             d["language"] = self.language
+        if self.source is not None:
+            d["source"] = self.source
         return d
 
 

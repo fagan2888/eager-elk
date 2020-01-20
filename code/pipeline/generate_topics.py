@@ -73,7 +73,8 @@ def _collect_data(data_dir, filelist, start, end):
     for n, fname in elements(filelist, start, end):
         print("    %07d  %s" % (n, fname))
         fpath = os.path.join(data_dir, 'lif', fname[:-5] + '.lif')
-        lif = Container(fpath).payload
+        # lif = Container(fpath).payload
+        lif = LIF(fpath)
         text_data = prepare_text_for_lda(lif.text.value)
         text_data = [w for w in text_data if w not in words_to_ignore]
         all_data.append(text_data)
@@ -121,9 +122,13 @@ def generate_topics_for_file(data_dir, fname, lda, topic_idx, dictionary):
     fname_in = os.path.join(data_dir, 'lif', fname[:-5] + '.lif')
     fname_out = os.path.join(data_dir, 'top', fname[:-5] + '.lif')
     ensure_directory(fname_out)
-    lif_in = Container(fname_in).payload
+    # lif_in = Container(fname_in).payload
+    lif_in = LIF(fname_in)
     lif_out = LIF(json_object=lif_in.as_json())
-    # just to save some space, we get them from the lif file anyway
+    # the following three are just to save some space, we get them from the lif
+    # file anyway
+    lif_out.text.value = None
+    lif_out.text.source = fname_in
     lif_out.metadata = {}
     topics_view = _create_view()
     lif_out.views = [topics_view]

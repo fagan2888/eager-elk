@@ -100,6 +100,7 @@ from utils import ensure_directory, elements, time_elapsed, print_element
 
 @time_elapsed
 def process_filelist(source_dir, data_dir, filelist, start, end, crash=False):
+    print("$ python3 %s\n" % ' '.join(sys.argv))
     for n, fname in elements(filelist, start, end):
         print_element(n, fname)
         if crash:
@@ -108,8 +109,8 @@ def process_filelist(source_dir, data_dir, filelist, start, end, crash=False):
             try:
                 process_list_element(source_dir, data_dir, fname)
             except Exception as e:
-                sys.stderr.write("ERROR on %07d  %s\n" % (n, fname))
-                print('ERROR:', Exception, e)
+                print("ERROR on %07d  %s\n" % (n, fname))
+                print('ERROR:', Exception, e, '\n')
 
 
 def process_list_element(source_dir, data_dir, fname):
