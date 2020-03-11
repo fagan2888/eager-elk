@@ -4,7 +4,7 @@ Use the gensim topic model to add one or more topics to a document.
 
 Usage:
 
-$ python generate_topics.py --train -d DATA_DIR -f FILELIST  -b BEGIN -e END
+$ python generate_topics.py --train -d DATA_DIR -f FILELIST -b BEGIN -e END
 
 Train a topic model using files in DATA_DIR/lif, taking only the files in
 FILELIST (which has the relative paths from DATA_DIR/lif) only using the lines
@@ -48,7 +48,7 @@ STOPWORDS = set(nltk.corpus.stopwords.words('english'))
 
 
 @time_elapsed
-def build_model(data_dir, filelist, start, end):
+def train_model(data_dir, filelist, start, end):
     """Build a model from scratch using the files as specified in the arguments."""
     print("\nCollecting data")
     text_data = _collect_data(data_dir, filelist, start, end)
@@ -210,19 +210,19 @@ if __name__ == '__main__':
     data_dir = '/DATA/eager/sample-01000'
     filelist = '../../data/files-random-01000.txt'
 
-    options = dict(getopt.getopt(sys.argv[1:], 'd:f:s:e:bh', ['crash', 'help', 'build'])[0])
+    options = dict(getopt.getopt(sys.argv[1:], 'd:f:b:e:h', ['crash', 'help', 'train'])[0])
     data_dir = options.get('-d', data_dir)
     filelist = options.get('-f', filelist)
-    start = int(options.get('-s', 1))
+    start = int(options.get('-b', 1))
     end = int(options.get('-e', 1))
+    train = True if '--train' in options else False
     crash = True if '--crash' in options else False
     help_wanted = True if '-h' in options or '--help' in options else False
-    build = True if '-b' in options or '--build' in options else False
 
     if help_wanted:
         usage()
     elif build:
-        build_model(data_dir, filelist, start, end)
+        train_model(data_dir, filelist, start, end)
         print_model()
     else:
         generate_topics(data_dir, filelist, start, end, crash=crash)

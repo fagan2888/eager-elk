@@ -82,7 +82,19 @@ Run the model on LIF files:
 $ python3 generate_topics.py -d DATA_DIR -f FILELIST -e 10000
 ```
 
-Creating the model from the 10K files took about 8 minutes. Run time is just under 5 hours. Size of created data is 22G.
+When you look at the files created here you will see something funky in the text property:
+
+```json
+"text": {
+	"@value": null,
+	"language": "en",
+	"source": "/data/pubmed/pmc-processed/all/lif/Zookeys/PMC3082960.lif"
+},
+```
+
+The text value is null but there is a `source` attribute that points to a lif file that does have the texts value. This is to save some space on tarski, for the topics this saves about 8G.
+
+Creating the model from the 10K files took about 8 minutes. Run time is just under 5 hours. Size of created data is 14G.
 
 
 ### 4. Running the Tarsqi Toolkit
