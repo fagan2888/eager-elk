@@ -11,7 +11,7 @@ FILELIST (which has the relative paths from DATA_DIR/lif) only using the lines
 from BEGIN to END. Both BEGIN and END defaylt to 1. The model is written to
 ../../data/topics.
 
-$ python generate_topics.py -d DATA_DIR -f FILELIST -b BEGIN -e END --crash?
+$ python generate_topics.py -d DATA_DIR -f FILELIST -b BEGIN -e END --crash
 
 Run the topic model created with --train to generate topics for the files in
 DATA_DIR/lif as filtered by FILELIST, BEGIN and END. Results are written to
@@ -221,7 +221,7 @@ if __name__ == '__main__':
 
     if help_wanted:
         usage()
-    elif build:
+    elif train:
         train_model(data_dir, filelist, start, end)
         print_model()
     else:
